@@ -1,0 +1,21 @@
+Block_Index,Location,From_Actor,To_Actor,Total_Supply_Flow_IDR,Imbalance_Amount_IDR,Balancing_Status
+1,Garut,Farmer,Rice Miller,1837109000.0,-709341000.0,Balanced using excess nodes in location
+1,Garut,Rice Miller,Middlemen,3051916678.8985605,2114276678.8985605,Balanced using excess nodes in location
+1,Garut,Middlemen,Wholesaler,932560000.0,-1950440000.0,Balanced using excess nodes in location
+1,Garut,Wholesaler,Retail,2937900000.0,2880490000.0,Balanced using excess nodes in location
+2,Indramayu,Farmer,Rice Miller,3456380000.0,-11087390053.475939,Balanced using excess nodes in location
+2,Indramayu,Rice Miller,Middlemen,17792973041.144676,15429223041.144676,Balanced using excess nodes in location
+2,Indramayu,Middlemen,Wholesaler,2889500000.0,-21056500000.0,Balanced using excess nodes in location
+2,Indramayu,Wholesaler,Retail,37040600000.00001,37003882500.00001,Balanced using excess nodes in location
+3,Karawang,Farmer,Rice Miller,5777252000.0,3598152000.0,Balanced using excess nodes in location
+3,Karawang,Rice Miller,Middlemen,2151463298.62889,1095513298.62889,Balanced using excess nodes in location
+3,Karawang,Middlemen,Wholesaler,1244050000.0,-2603250000.0,Balanced using excess nodes in location
+3,Karawang,Wholesaler,Retail,5174500000.0,5134735000.0,Balanced using excess nodes in location
+4,Subang,Farmer,Rice Miller,3235494492.753623,-975305507.246377,Balanced using excess nodes in location
+4,Subang,Rice Miller,Middlemen,5269711679.154576,2649261679.1545763,Balanced using excess nodes in location
+4,Subang,Middlemen,Wholesaler,3340780000.0,447280000.0,Balanced using excess nodes in location
+4,Subang,Wholesaler,Retail,5062967000.0,5019129500.0,Balanced using excess nodes in location
+5,Tasikmalaya,Farmer,Rice Miller,2222489000.0,-1018721000.0,Balanced using excess nodes in location
+5,Tasikmalaya,Rice Miller,Middlemen,3536051013.2559595,2039499531.774478,Balanced using excess nodes in location
+5,Tasikmalaya,Middlemen,Wholesaler,1512120000.0,-5765060000.0,Balanced using excess nodes in location
+5,Tasikmalaya,Wholesaler,Retail,17115070000.0,17042847500.0,Balanced using excess nodes in location

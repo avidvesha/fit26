@@ -1,0 +1,1129 @@
+Location,From_Actor,From_DMU,To_Actor,To_DMU,Amount_IDR,Type
+Garut,Farmer,1,Rice Miller,1,16200000.0,Standard Flow
+Garut,Farmer,2,Rice Miller,1,8100000.0,Standard Flow
+Garut,Farmer,3,Rice Miller,1,14850000.0,Standard Flow
+Garut,Farmer,4,Rice Miller,1,13050000.0,Standard Flow
+Garut,Farmer,5,Rice Miller,1,10200000.0,Standard Flow
+Garut,Farmer,6,Rice Miller,1,3600000.0,Standard Flow
+Garut,Farmer,7,Rice Miller,1,8100000.0,Standard Flow
+Garut,Farmer,8,Rice Miller,1,7850000.0,Standard Flow
+Garut,Farmer,9,Rice Miller,1,29700000.0,Standard Flow
+Garut,Farmer,10,Rice Miller,1,36450000.0,Standard Flow
+Garut,Farmer,11,Rice Miller,1,13050000.0,Standard Flow
+Garut,Farmer,12,Rice Miller,1,28200000.0,Standard Flow
+Garut,Farmer,13,Rice Miller,1,9400000.0,Standard Flow
+Garut,Farmer,14,Rice Miller,1,2100000.0,Standard Flow
+Garut,Farmer,15,Rice Miller,1,19800000.0,Standard Flow
+Garut,Farmer,16,Rice Miller,1,6750000.0,Standard Flow
+Garut,Farmer,17,Rice Miller,1,9300000.0,Standard Flow
+Garut,Farmer,18,Rice Miller,1,25650000.0,Standard Flow
+Garut,Farmer,19,Rice Miller,1,6750000.0,Standard Flow
+Garut,Farmer,20,Rice Miller,1,13500000.0,Standard Flow
+Garut,Farmer,21,Rice Miller,1,5400000.0,Standard Flow
+Garut,Farmer,22,Rice Miller,1,6750000.0,Standard Flow
+Garut,Farmer,23,Rice Miller,1,5400000.0,Standard Flow
+Garut,Farmer,24,Rice Miller,1,6750000.0,Standard Flow
+Garut,Farmer,25,Rice Miller,1,14850000.0,Standard Flow
+Garut,Farmer,26,Rice Miller,1,9249999.999999821,Standard Flow
+Garut,Farmer,26,Rice Miller,2,25400000.00000018,Standard Flow
+Garut,Farmer,27,Rice Miller,2,49500000.0,Standard Flow
+Garut,Farmer,28,Rice Miller,2,13180000.0,Standard Flow
+Garut,Farmer,29,Rice Miller,2,1740000.0,Standard Flow
+Garut,Farmer,30,Rice Miller,2,25650000.0,Standard Flow
+Garut,Farmer,31,Rice Miller,2,15150000.0,Standard Flow
+Garut,Farmer,32,Rice Miller,2,10100000.0,Standard Flow
+Garut,Farmer,33,Rice Miller,2,30000000.0,Standard Flow
+Garut,Farmer,34,Rice Miller,2,19000000.0,Standard Flow
+Garut,Farmer,35,Rice Miller,2,27540000.0,Standard Flow
+Garut,Farmer,36,Rice Miller,2,24750000.0,Standard Flow
+Garut,Farmer,37,Rice Miller,2,14850000.0,Standard Flow
+Garut,Farmer,38,Rice Miller,2,9900000.0,Standard Flow
+Garut,Farmer,39,Rice Miller,2,14850000.0,Standard Flow
+Garut,Farmer,40,Rice Miller,2,16875000.0,Standard Flow
+Garut,Farmer,41,Rice Miller,2,16514999.999999821,Standard Flow
+Garut,Farmer,41,Rice Miller,3,32985000.00000018,Standard Flow
+Garut,Farmer,42,Rice Miller,3,9900000.0,Standard Flow
+Garut,Farmer,43,Rice Miller,3,16200000.0,Standard Flow
+Garut,Farmer,44,Rice Miller,3,28800000.0,Standard Flow
+Garut,Farmer,45,Rice Miller,3,18600000.0,Standard Flow
+Garut,Farmer,46,Rice Miller,3,9900000.0,Standard Flow
+Garut,Farmer,47,Rice Miller,3,24750000.0,Standard Flow
+Garut,Farmer,48,Rice Miller,3,14850000.0,Standard Flow
+Garut,Farmer,49,Rice Miller,3,6550000.0,Standard Flow
+Garut,Farmer,50,Rice Miller,3,36450000.0,Standard Flow
+Garut,Farmer,51,Rice Miller,3,2100000.0,Standard Flow
+Garut,Farmer,52,Rice Miller,3,19800000.0,Standard Flow
+Garut,Farmer,53,Rice Miller,3,19114999.99999982,Standard Flow
+Garut,Farmer,53,Rice Miller,4,685000.0000001788,Standard Flow
+Garut,Farmer,54,Rice Miller,4,19800000.0,Standard Flow
+Garut,Farmer,55,Rice Miller,4,9300000.0,Standard Flow
+Garut,Farmer,56,Rice Miller,4,29700000.0,Standard Flow
+Garut,Farmer,57,Rice Miller,4,16875000.0,Standard Flow
+Garut,Farmer,58,Rice Miller,4,29700000.0,Standard Flow
+Garut,Farmer,59,Rice Miller,4,48300000.0,Standard Flow
+Garut,Farmer,60,Rice Miller,4,9400000.0,Standard Flow
+Garut,Farmer,61,Rice Miller,4,9400000.0,Standard Flow
+Garut,Farmer,62,Rice Miller,4,9900000.0,Standard Flow
+Garut,Farmer,63,Rice Miller,4,17550000.0,Standard Flow
+Garut,Farmer,64,Rice Miller,4,13950000.0,Standard Flow
+Garut,Farmer,65,Rice Miller,4,8100000.0,Standard Flow
+Garut,Farmer,66,Rice Miller,4,9900000.0,Standard Flow
+Garut,Farmer,67,Rice Miller,4,24750000.0,Standard Flow
+Garut,Farmer,68,Rice Miller,4,12689999.999999821,Standard Flow
+Garut,Farmer,68,Rice Miller,5,4185000.000000179,Standard Flow
+Garut,Farmer,69,Rice Miller,5,13640000.0,Standard Flow
+Garut,Farmer,70,Rice Miller,5,25650000.0,Standard Flow
+Garut,Farmer,71,Rice Miller,5,39600000.0,Standard Flow
+Garut,Farmer,72,Rice Miller,5,198000000.0,Standard Flow
+Garut,Farmer,73,Rice Miller,5,18924999.99999982,Standard Flow
+Garut,Farmer,73,Rice Miller,6,5075000.000000179,Standard Flow
+Garut,Farmer,74,Rice Miller,6,24750000.0,Standard Flow
+Garut,Farmer,75,Rice Miller,6,39600000.0,Standard Flow
+Garut,Farmer,76,Rice Miller,6,49500000.0,Standard Flow
+Garut,Farmer,77,Rice Miller,6,6400000.0,Standard Flow
+Garut,Farmer,78,Rice Miller,6,6890000.0,Standard Flow
+Garut,Farmer,79,Rice Miller,6,9600000.0,Standard Flow
+Garut,Farmer,80,Rice Miller,6,12840000.0,Standard Flow
+Garut,Farmer,81,Rice Miller,6,8325000.0,Standard Flow
+Garut,Farmer,82,Rice Miller,6,9300000.0,Standard Flow
+Garut,Farmer,83,Rice Miller,6,9300000.0,Standard Flow
+Garut,Farmer,84,Rice Miller,6,9300000.0,Standard Flow
+Garut,Farmer,85,Rice Miller,6,10200000.0,Standard Flow
+Garut,Farmer,86,Rice Miller,6,6590000.0,Standard Flow
+Garut,Farmer,87,Rice Miller,6,329999.9999998212,Standard Flow
+Garut,Farmer,87,Rice Miller,7,12270000.000000179,Standard Flow
+Garut,Farmer,88,Rice Miller,7,8495000.0,Standard Flow
+Garut,Farmer,89,Rice Miller,7,15000000.0,Standard Flow
+Garut,Farmer,90,Rice Miller,7,12720000.0,Standard Flow
+Garut,Farmer,91,Rice Miller,7,6544000.0,Standard Flow
+Garut,Farmer,92,Rice Miller,7,8180000.0,Standard Flow
+Garut,Farmer,93,Rice Miller,7,16200000.0,Standard Flow
+Garut,Farmer,94,Rice Miller,7,48150000.0,Standard Flow
+Garut,Farmer,95,Rice Miller,7,17550000.0,Standard Flow
+Garut,Farmer,96,Rice Miller,7,9300000.0,Standard Flow
+Garut,Farmer,97,Rice Miller,7,7590999.999999821,Standard Flow
+Garut,Farmer,97,Rice Miller,8,1709000.0000001788,Standard Flow
+Garut,Farmer,98,Rice Miller,8,9400000.0,Standard Flow
+Garut,Garut Regional Buffer,BUFFER,Rice Miller,8,108890999.99999982,Shortage Fulfillment
+Garut,Garut Regional Buffer,BUFFER,Rice Miller,9,150000000.0,Shortage Fulfillment
+Garut,Garut Regional Buffer,BUFFER,Rice Miller,10,138000000.0,Shortage Fulfillment
+Garut,Garut Regional Buffer,BUFFER,Rice Miller,11,75000000.0,Shortage Fulfillment
+Garut,Garut Regional Buffer,BUFFER,Rice Miller,12,50000000.0,Shortage Fulfillment
+Garut,Garut Regional Buffer,BUFFER,Rice Miller,13,34200000.0,Shortage Fulfillment
+Garut,Garut Regional Buffer,BUFFER,Rice Miller,14,24000000.0,Shortage Fulfillment
+Garut,Garut Regional Buffer,BUFFER,Rice Miller,15,20000000.0,Shortage Fulfillment
+Garut,Garut Regional Buffer,BUFFER,Rice Miller,16,27000000.0,Shortage Fulfillment
+Garut,Garut Regional Buffer,BUFFER,Rice Miller,17,15750000.0,Shortage Fulfillment
+Garut,Garut Regional Buffer,BUFFER,Rice Miller,18,15000000.0,Shortage Fulfillment
+Garut,Garut Regional Buffer,BUFFER,Rice Miller,19,15000000.0,Shortage Fulfillment
+Garut,Garut Regional Buffer,BUFFER,Rice Miller,20,16500000.0,Shortage Fulfillment
+Garut,Garut Regional Buffer,BUFFER,Rice Miller,21,5000000.0,Shortage Fulfillment
+Garut,Garut Regional Buffer,BUFFER,Rice Miller,22,5000000.0,Shortage Fulfillment
+Garut,Garut Regional Buffer,BUFFER,Rice Miller,23,5000000.0,Shortage Fulfillment
+Garut,Garut Regional Buffer,BUFFER,Rice Miller,24,5000000.0,Shortage Fulfillment
+Garut,Rice Miller,1,Middlemen,1,6300000.0,Standard Flow
+Garut,Rice Miller,1,Middlemen,2,6300000.0,Standard Flow
+Garut,Rice Miller,1,Middlemen,3,10000000.0,Standard Flow
+Garut,Rice Miller,1,Middlemen,4,9000000.0,Standard Flow
+Garut,Rice Miller,1,Middlemen,5,7470000.0,Standard Flow
+Garut,Rice Miller,1,Middlemen,6,7470000.0,Standard Flow
+Garut,Rice Miller,1,Middlemen,7,17000000.0,Standard Flow
+Garut,Rice Miller,1,Middlemen,8,18000000.0,Standard Flow
+Garut,Rice Miller,1,Middlemen,9,18000000.0,Standard Flow
+Garut,Rice Miller,1,Middlemen,10,18000000.0,Standard Flow
+Garut,Rice Miller,1,Middlemen,11,18000000.0,Standard Flow
+Garut,Rice Miller,1,Middlemen,12,30000000.0,Standard Flow
+Garut,Rice Miller,1,Middlemen,13,33000000.0,Standard Flow
+Garut,Rice Miller,1,Middlemen,14,34200000.0,Standard Flow
+Garut,Rice Miller,1,Middlemen,15,36000000.0,Standard Flow
+Garut,Rice Miller,1,Middlemen,16,39900000.0,Standard Flow
+Garut,Rice Miller,1,Middlemen,17,48000000.0,Standard Flow
+Garut,Rice Miller,1,Middlemen,18,30413194.51555997,Standard Flow
+Garut,Rice Miller,2,Middlemen,18,52586805.48444003,Standard Flow
+Garut,Rice Miller,2,Middlemen,19,83000000.0,Standard Flow
+Garut,Rice Miller,2,Middlemen,20,83000000.0,Standard Flow
+Garut,Rice Miller,2,Middlemen,21,83000000.0,Standard Flow
+Garut,Rice Miller,2,Middlemen,22,83000000.0,Standard Flow
+Garut,Rice Miller,2,Middlemen,23,35413194.51555997,Standard Flow
+Garut,Rice Miller,3,Middlemen,23,47586805.48444003,Standard Flow
+Garut,Rice Miller,3,Middlemen,24,83000000.0,Standard Flow
+Garut,Rice Miller,3,Garut Regional Buffer,BUFFER,229413194.51555997,Excess Mitigation
+Garut,Rice Miller,4,Garut Regional Buffer,BUFFER,360000000.0,Excess Mitigation
+Garut,Rice Miller,5,Garut Regional Buffer,BUFFER,384120000.0,Excess Mitigation
+Garut,Rice Miller,6,Garut Regional Buffer,BUFFER,23223191.6709336,Excess Mitigation
+Garut,Rice Miller,7,Garut Regional Buffer,BUFFER,210000000.0,Excess Mitigation
+Garut,Rice Miller,8,Garut Regional Buffer,BUFFER,180000000.0,Excess Mitigation
+Garut,Rice Miller,9,Garut Regional Buffer,BUFFER,180000000.0,Excess Mitigation
+Garut,Rice Miller,10,Garut Regional Buffer,BUFFER,165000000.0,Excess Mitigation
+Garut,Rice Miller,11,Garut Regional Buffer,BUFFER,90000000.0,Excess Mitigation
+Garut,Rice Miller,12,Garut Regional Buffer,BUFFER,60000000.0,Excess Mitigation
+Garut,Rice Miller,13,Garut Regional Buffer,BUFFER,39000000.0,Excess Mitigation
+Garut,Rice Miller,14,Garut Regional Buffer,BUFFER,36000000.0,Excess Mitigation
+Garut,Rice Miller,15,Garut Regional Buffer,BUFFER,30000000.0,Excess Mitigation
+Garut,Rice Miller,16,Garut Regional Buffer,BUFFER,27000000.0,Excess Mitigation
+Garut,Rice Miller,17,Garut Regional Buffer,BUFFER,21000000.0,Excess Mitigation
+Garut,Rice Miller,18,Garut Regional Buffer,BUFFER,17000000.00000001,Excess Mitigation
+Garut,Rice Miller,19,Garut Regional Buffer,BUFFER,20320292.7120669,Excess Mitigation
+Garut,Rice Miller,20,Garut Regional Buffer,BUFFER,21000000.0,Excess Mitigation
+Garut,Rice Miller,21,Garut Regional Buffer,BUFFER,5400000.0,Excess Mitigation
+Garut,Rice Miller,22,Garut Regional Buffer,BUFFER,5400000.0,Excess Mitigation
+Garut,Rice Miller,23,Garut Regional Buffer,BUFFER,5400000.0,Excess Mitigation
+Garut,Rice Miller,24,Garut Regional Buffer,BUFFER,5000000.0,Excess Mitigation
+Garut,Middlemen,1,Wholesaler,1,6300000.0,Standard Flow
+Garut,Middlemen,2,Wholesaler,1,6300000.0,Standard Flow
+Garut,Middlemen,3,Wholesaler,1,7040000.0,Standard Flow
+Garut,Middlemen,4,Wholesaler,1,7920000.0,Standard Flow
+Garut,Middlemen,5,Wholesaler,1,8100000.0,Standard Flow
+Garut,Middlemen,6,Wholesaler,1,8100000.0,Standard Flow
+Garut,Middlemen,7,Wholesaler,1,13200000.0,Standard Flow
+Garut,Middlemen,8,Wholesaler,1,15840000.0,Standard Flow
+Garut,Middlemen,9,Wholesaler,1,7200000.0,Standard Flow
+Garut,Middlemen,9,Wholesaler,2,8640000.0,Standard Flow
+Garut,Middlemen,10,Wholesaler,2,360000.0,Standard Flow
+Garut,Middlemen,10,Wholesaler,3,9000000.0,Standard Flow
+Garut,Middlemen,10,Wholesaler,4,6480000.0,Standard Flow
+Garut,Middlemen,11,Wholesaler,4,9519999.99999999,Standard Flow
+Garut,Middlemen,11,Wholesaler,5,6320000.000000009,Standard Flow
+Garut,Middlemen,12,Wholesaler,5,24640000.0,Standard Flow
+Garut,Middlemen,13,Wholesaler,5,29040000.0,Standard Flow
+Garut,Middlemen,14,Wholesaler,5,31680000.0,Standard Flow
+Garut,Middlemen,15,Wholesaler,5,22319999.999999985,Standard Flow
+Garut,Middlemen,15,Wholesaler,6,9360000.000000015,Standard Flow
+Garut,Middlemen,16,Wholesaler,6,17639999.999999985,Standard Flow
+Garut,Middlemen,16,Wholesaler,7,19320000.000000015,Standard Flow
+Garut,Middlemen,17,Wholesaler,7,42240000.0,Standard Flow
+Garut,Middlemen,18,Wholesaler,7,88000000.0,Standard Flow
+Garut,Middlemen,19,Wholesaler,7,88000000.0,Standard Flow
+Garut,Middlemen,20,Wholesaler,7,88000000.0,Standard Flow
+Garut,Middlemen,21,Wholesaler,7,34440000.0,Standard Flow
+Garut,Middlemen,21,Wholesaler,8,53560000.0,Standard Flow
+Garut,Middlemen,22,Wholesaler,8,6440000.0,Standard Flow
+Garut,Middlemen,22,Wholesaler,9,66500000.0,Standard Flow
+Garut,Middlemen,22,Wholesaler,10,15060000.0,Standard Flow
+Garut,Middlemen,23,Wholesaler,10,61440000.0,Standard Flow
+Garut,Middlemen,23,Wholesaler,11,26560000.0,Standard Flow
+Garut,Middlemen,24,Wholesaler,11,87440000.0,Standard Flow
+Garut,Middlemen,24,Wholesaler,12,560000.0,Standard Flow
+Garut,Garut Regional Buffer,BUFFER,Wholesaler,12,89440000.0,Shortage Fulfillment
+Garut,Garut Regional Buffer,BUFFER,Wholesaler,13,95000000.0,Shortage Fulfillment
+Garut,Garut Regional Buffer,BUFFER,Wholesaler,14,150000000.0,Shortage Fulfillment
+Garut,Garut Regional Buffer,BUFFER,Wholesaler,15,171000000.0,Shortage Fulfillment
+Garut,Garut Regional Buffer,BUFFER,Wholesaler,16,90000000.0,Shortage Fulfillment
+Garut,Garut Regional Buffer,BUFFER,Wholesaler,17,171000000.0,Shortage Fulfillment
+Garut,Garut Regional Buffer,BUFFER,Wholesaler,18,300000000.0,Shortage Fulfillment
+Garut,Garut Regional Buffer,BUFFER,Wholesaler,19,500000000.0,Shortage Fulfillment
+Garut,Garut Regional Buffer,BUFFER,Wholesaler,20,20000000.0,Shortage Fulfillment
+Garut,Garut Regional Buffer,BUFFER,Wholesaler,21,45000000.0,Shortage Fulfillment
+Garut,Garut Regional Buffer,BUFFER,Wholesaler,22,80000000.0,Shortage Fulfillment
+Garut,Garut Regional Buffer,BUFFER,Wholesaler,23,45000000.0,Shortage Fulfillment
+Garut,Garut Regional Buffer,BUFFER,Wholesaler,24,80000000.0,Shortage Fulfillment
+Garut,Garut Regional Buffer,BUFFER,Wholesaler,25,114000000.0,Shortage Fulfillment
+Garut,Wholesaler,1,Retail,1,1375000.0,Standard Flow
+Garut,Wholesaler,1,Retail,2,2700000.0,Standard Flow
+Garut,Wholesaler,1,Retail,3,2700000.0,Standard Flow
+Garut,Wholesaler,1,Retail,4,2695000.0,Standard Flow
+Garut,Wholesaler,1,Retail,5,2612500.0,Standard Flow
+Garut,Wholesaler,1,Retail,6,2450000.0,Standard Flow
+Garut,Wholesaler,1,Retail,7,1960000.0,Standard Flow
+Garut,Wholesaler,1,Retail,8,2700000.0,Standard Flow
+Garut,Wholesaler,1,Retail,9,2695000.0,Standard Flow
+Garut,Wholesaler,1,Retail,10,1980000.0,Standard Flow
+Garut,Wholesaler,1,Retail,11,2700000.0,Standard Flow
+Garut,Wholesaler,1,Retail,12,2612500.0,Standard Flow
+Garut,Wholesaler,1,Retail,13,2700000.0,Standard Flow
+Garut,Wholesaler,1,Retail,14,2450000.0,Standard Flow
+Garut,Wholesaler,1,Retail,15,2695000.0,Standard Flow
+Garut,Wholesaler,1,Retail,16,2475000.0,Standard Flow
+Garut,Wholesaler,1,Retail,17,2695000.0,Standard Flow
+Garut,Wholesaler,1,Retail,18,2612500.0,Standard Flow
+Garut,Wholesaler,1,Retail,19,2695000.0,Standard Flow
+Garut,Wholesaler,1,Retail,20,1900000.0,Standard Flow
+Garut,Wholesaler,1,Retail,21,2695000.0,Standard Flow
+Garut,Wholesaler,1,Retail,22,2700000.0,Standard Flow
+Garut,Wholesaler,1,Retail,23,2612500.0,Standard Flow
+Garut,Wholesaler,1,Garut Regional Buffer,BUFFER,42590000.0,Excess Mitigation
+Garut,Wholesaler,2,Garut Regional Buffer,BUFFER,9000000.0,Excess Mitigation
+Garut,Wholesaler,3,Garut Regional Buffer,BUFFER,9000000.0,Excess Mitigation
+Garut,Wholesaler,4,Garut Regional Buffer,BUFFER,15999999.99999999,Excess Mitigation
+Garut,Wholesaler,5,Garut Regional Buffer,BUFFER,27500000.0,Excess Mitigation
+Garut,Wholesaler,6,Garut Regional Buffer,BUFFER,30000000.0,Excess Mitigation
+Garut,Wholesaler,7,Garut Regional Buffer,BUFFER,40000000.0,Excess Mitigation
+Garut,Wholesaler,8,Garut Regional Buffer,BUFFER,66000000.0,Excess Mitigation
+Garut,Wholesaler,9,Garut Regional Buffer,BUFFER,80500000.0,Excess Mitigation
+Garut,Wholesaler,10,Garut Regional Buffer,BUFFER,90000000.0,Excess Mitigation
+Garut,Wholesaler,11,Garut Regional Buffer,BUFFER,99000000.0,Excess Mitigation
+Garut,Wholesaler,12,Garut Regional Buffer,BUFFER,99999999.99999993,Excess Mitigation
+Garut,Wholesaler,13,Garut Regional Buffer,BUFFER,115000000.0,Excess Mitigation
+Garut,Wholesaler,14,Garut Regional Buffer,BUFFER,157500000.0,Excess Mitigation
+Garut,Wholesaler,15,Garut Regional Buffer,BUFFER,165000000.0,Excess Mitigation
+Garut,Wholesaler,16,Garut Regional Buffer,BUFFER,180000000.0,Excess Mitigation
+Garut,Wholesaler,17,Garut Regional Buffer,BUFFER,207000000.0,Excess Mitigation
+Garut,Wholesaler,18,Garut Regional Buffer,BUFFER,400000000.0,Excess Mitigation
+Garut,Wholesaler,19,Garut Regional Buffer,BUFFER,550000000.0,Excess Mitigation
+Garut,Wholesaler,20,Garut Regional Buffer,BUFFER,185400000.0,Excess Mitigation
+Garut,Wholesaler,21,Garut Regional Buffer,BUFFER,49500000.0,Excess Mitigation
+Garut,Wholesaler,22,Garut Regional Buffer,BUFFER,88000000.0,Excess Mitigation
+Garut,Wholesaler,23,Garut Regional Buffer,BUFFER,49500000.0,Excess Mitigation
+Garut,Wholesaler,24,Garut Regional Buffer,BUFFER,88000000.0,Excess Mitigation
+Garut,Wholesaler,25,Garut Regional Buffer,BUFFER,36000000.0,Excess Mitigation
+Indramayu,Farmer,1,Rice Miller,1,25650000.0,Standard Flow
+Indramayu,Farmer,2,Rice Miller,1,10400000.0,Standard Flow
+Indramayu,Farmer,3,Rice Miller,1,62400000.0,Standard Flow
+Indramayu,Farmer,4,Rice Miller,1,1860000.0,Standard Flow
+Indramayu,Farmer,5,Rice Miller,1,25650000.0,Standard Flow
+Indramayu,Farmer,6,Rice Miller,1,86800000.0,Standard Flow
+Indramayu,Farmer,7,Rice Miller,1,13050000.0,Standard Flow
+Indramayu,Farmer,8,Rice Miller,1,6550000.0,Standard Flow
+Indramayu,Farmer,9,Rice Miller,1,25650000.0,Standard Flow
+Indramayu,Farmer,10,Rice Miller,1,66150000.0,Standard Flow
+Indramayu,Farmer,11,Rice Miller,1,133650000.0,Standard Flow
+Indramayu,Farmer,12,Rice Miller,1,41400000.0,Standard Flow
+Indramayu,Farmer,13,Rice Miller,1,12250000.0,Standard Flow
+Indramayu,Farmer,14,Rice Miller,1,2100000.0,Standard Flow
+Indramayu,Farmer,15,Rice Miller,1,59400000.0,Standard Flow
+Indramayu,Farmer,16,Rice Miller,1,49500000.0,Standard Flow
+Indramayu,Farmer,17,Rice Miller,1,91200000.0,Standard Flow
+Indramayu,Farmer,18,Rice Miller,1,84150000.0,Standard Flow
+Indramayu,Farmer,19,Rice Miller,1,131600000.0,Standard Flow
+Indramayu,Farmer,20,Rice Miller,1,39600000.0,Standard Flow
+Indramayu,Farmer,21,Rice Miller,1,65000000.0,Standard Flow
+Indramayu,Farmer,22,Rice Miller,1,41600000.0,Standard Flow
+Indramayu,Farmer,23,Rice Miller,1,2100000.0,Standard Flow
+Indramayu,Farmer,24,Rice Miller,1,2100000.0,Standard Flow
+Indramayu,Farmer,25,Rice Miller,1,32850000.0,Standard Flow
+Indramayu,Farmer,26,Rice Miller,1,66150000.0,Standard Flow
+Indramayu,Farmer,27,Rice Miller,1,32850000.0,Standard Flow
+Indramayu,Farmer,28,Rice Miller,1,186300000.0,Standard Flow
+Indramayu,Farmer,29,Rice Miller,1,18600000.0,Standard Flow
+Indramayu,Farmer,30,Rice Miller,1,2100000.0,Standard Flow
+Indramayu,Farmer,31,Rice Miller,1,133650000.0,Standard Flow
+Indramayu,Farmer,32,Rice Miller,1,29700000.0,Standard Flow
+Indramayu,Farmer,33,Rice Miller,1,53000000.0,Standard Flow
+Indramayu,Farmer,34,Rice Miller,1,62400000.0,Standard Flow
+Indramayu,Farmer,35,Rice Miller,1,25650000.0,Standard Flow
+Indramayu,Farmer,36,Rice Miller,1,114400000.0,Standard Flow
+Indramayu,Farmer,37,Rice Miller,1,79800000.0,Standard Flow
+Indramayu,Farmer,38,Rice Miller,1,9900000.0,Standard Flow
+Indramayu,Farmer,39,Rice Miller,1,59400000.0,Standard Flow
+Indramayu,Farmer,40,Rice Miller,1,11000000.0,Standard Flow
+Indramayu,Farmer,41,Rice Miller,1,128700000.0,Standard Flow
+Indramayu,Farmer,42,Rice Miller,1,61650000.0,Standard Flow
+Indramayu,Farmer,43,Rice Miller,1,66060000.0,Standard Flow
+Indramayu,Farmer,44,Rice Miller,1,83750000.0,Standard Flow
+Indramayu,Farmer,45,Rice Miller,1,101020000.0,Standard Flow
+Indramayu,Farmer,46,Rice Miller,1,94050000.0,Standard Flow
+Indramayu,Farmer,47,Rice Miller,1,112050000.0,Standard Flow
+Indramayu,Farmer,48,Rice Miller,1,44550000.0,Standard Flow
+Indramayu,Farmer,49,Rice Miller,1,45800000.0,Standard Flow
+Indramayu,Farmer,50,Rice Miller,1,161600000.0,Standard Flow
+Indramayu,Farmer,51,Rice Miller,1,77590000.0,Standard Flow
+Indramayu,Farmer,52,Rice Miller,1,101000000.0,Standard Flow
+Indramayu,Farmer,53,Rice Miller,1,35350000.0,Standard Flow
+Indramayu,Farmer,54,Rice Miller,1,51300000.0,Standard Flow
+Indramayu,Farmer,55,Rice Miller,1,29020000.0,Standard Flow
+Indramayu,Farmer,56,Rice Miller,1,32400000.0,Standard Flow
+Indramayu,Farmer,57,Rice Miller,1,16200000.0,Standard Flow
+Indramayu,Farmer,58,Rice Miller,1,42240000.0,Standard Flow
+Indramayu,Farmer,59,Rice Miller,1,62440000.0,Standard Flow
+Indramayu,Farmer,60,Rice Miller,1,66150000.0,Standard Flow
+Indramayu,Farmer,61,Rice Miller,1,12720000.0,Standard Flow
+Indramayu,Farmer,62,Rice Miller,1,33180000.0,Standard Flow
+Indramayu,Indramayu Regional Buffer,BUFFER,Rice Miller,1,1543620000.0000038,Shortage Fulfillment
+Indramayu,Indramayu Regional Buffer,BUFFER,Rice Miller,2,300000000.0,Shortage Fulfillment
+Indramayu,Indramayu Regional Buffer,BUFFER,Rice Miller,3,4200000000.0,Shortage Fulfillment
+Indramayu,Indramayu Regional Buffer,BUFFER,Rice Miller,4,1600000000.0,Shortage Fulfillment
+Indramayu,Indramayu Regional Buffer,BUFFER,Rice Miller,5,600000000.0,Shortage Fulfillment
+Indramayu,Indramayu Regional Buffer,BUFFER,Rice Miller,6,400000000.0,Shortage Fulfillment
+Indramayu,Indramayu Regional Buffer,BUFFER,Rice Miller,7,300000000.0,Shortage Fulfillment
+Indramayu,Indramayu Regional Buffer,BUFFER,Rice Miller,8,300000000.0,Shortage Fulfillment
+Indramayu,Indramayu Regional Buffer,BUFFER,Rice Miller,9,310588235.2941174,Shortage Fulfillment
+Indramayu,Indramayu Regional Buffer,BUFFER,Rice Miller,10,300000000.0,Shortage Fulfillment
+Indramayu,Indramayu Regional Buffer,BUFFER,Rice Miller,11,338181818.1818184,Shortage Fulfillment
+Indramayu,Indramayu Regional Buffer,BUFFER,Rice Miller,12,300000000.0,Shortage Fulfillment
+Indramayu,Indramayu Regional Buffer,BUFFER,Rice Miller,13,330000000.0,Shortage Fulfillment
+Indramayu,Indramayu Regional Buffer,BUFFER,Rice Miller,14,150000000.0,Shortage Fulfillment
+Indramayu,Indramayu Regional Buffer,BUFFER,Rice Miller,15,75000000.0,Shortage Fulfillment
+Indramayu,Indramayu Regional Buffer,BUFFER,Rice Miller,16,20000000.0,Shortage Fulfillment
+Indramayu,Indramayu Regional Buffer,BUFFER,Rice Miller,17,20000000.0,Shortage Fulfillment
+Indramayu,Rice Miller,1,Middlemen,1,49500000.0,Standard Flow
+Indramayu,Rice Miller,1,Middlemen,2,62250000.0,Standard Flow
+Indramayu,Rice Miller,1,Middlemen,3,83000000.0,Standard Flow
+Indramayu,Rice Miller,1,Middlemen,4,83000000.0,Standard Flow
+Indramayu,Rice Miller,1,Middlemen,5,83000000.0,Standard Flow
+Indramayu,Rice Miller,1,Middlemen,6,83000000.0,Standard Flow
+Indramayu,Rice Miller,1,Middlemen,7,83000000.0,Standard Flow
+Indramayu,Rice Miller,1,Middlemen,8,55000000.0,Standard Flow
+Indramayu,Rice Miller,1,Middlemen,9,83000000.0,Standard Flow
+Indramayu,Rice Miller,1,Middlemen,10,83000000.0,Standard Flow
+Indramayu,Rice Miller,1,Middlemen,11,83000000.0,Standard Flow
+Indramayu,Rice Miller,1,Middlemen,12,77000000.0,Standard Flow
+Indramayu,Rice Miller,1,Middlemen,13,106000000.0,Standard Flow
+Indramayu,Rice Miller,1,Middlemen,14,120000000.0,Standard Flow
+Indramayu,Rice Miller,1,Middlemen,15,270000000.0,Standard Flow
+Indramayu,Rice Miller,1,Middlemen,16,960000000.0,Standard Flow
+Indramayu,Rice Miller,1,Indramayu Regional Buffer,BUFFER,3036250000.0,Excess Mitigation
+Indramayu,Rice Miller,2,Indramayu Regional Buffer,BUFFER,384120000.0,Excess Mitigation
+Indramayu,Rice Miller,3,Indramayu Regional Buffer,BUFFER,5689681959.378733,Excess Mitigation
+Indramayu,Rice Miller,4,Indramayu Regional Buffer,BUFFER,2322319167.09336,Excess Mitigation
+Indramayu,Rice Miller,5,Indramayu Regional Buffer,BUFFER,696695750.128008,Excess Mitigation
+Indramayu,Rice Miller,6,Indramayu Regional Buffer,BUFFER,561227132.047562,Excess Mitigation
+Indramayu,Rice Miller,7,Indramayu Regional Buffer,BUFFER,346947096.7741936,Excess Mitigation
+Indramayu,Rice Miller,8,Indramayu Regional Buffer,BUFFER,371687182.6932923,Excess Mitigation
+Indramayu,Rice Miller,9,Indramayu Regional Buffer,BUFFER,326502000.0,Excess Mitigation
+Indramayu,Rice Miller,10,Indramayu Regional Buffer,BUFFER,345708000.0,Excess Mitigation
+Indramayu,Rice Miller,11,Indramayu Regional Buffer,BUFFER,343878857.1428571,Excess Mitigation
+Indramayu,Rice Miller,12,Indramayu Regional Buffer,BUFFER,345708000.0,Excess Mitigation
+Indramayu,Rice Miller,13,Indramayu Regional Buffer,BUFFER,345708000.0,Excess Mitigation
+Indramayu,Rice Miller,14,Indramayu Regional Buffer,BUFFER,174173937.532002,Excess Mitigation
+Indramayu,Rice Miller,15,Indramayu Regional Buffer,BUFFER,87086968.766001,Excess Mitigation
+Indramayu,Rice Miller,16,Indramayu Regional Buffer,BUFFER,29028989.588667,Excess Mitigation
+Indramayu,Rice Miller,17,Indramayu Regional Buffer,BUFFER,22500000.0,Excess Mitigation
+Indramayu,Middlemen,1,Wholesaler,1,66000000.0,Standard Flow
+Indramayu,Middlemen,2,Wholesaler,1,48000000.0,Standard Flow
+Indramayu,Middlemen,2,Wholesaler,2,18000000.0,Standard Flow
+Indramayu,Middlemen,3,Wholesaler,2,88000000.0,Standard Flow
+Indramayu,Middlemen,4,Wholesaler,2,8000000.0,Standard Flow
+Indramayu,Middlemen,4,Wholesaler,3,80000000.0,Standard Flow
+Indramayu,Middlemen,5,Wholesaler,3,34000000.0,Standard Flow
+Indramayu,Middlemen,5,Wholesaler,4,54000000.0,Standard Flow
+Indramayu,Middlemen,6,Wholesaler,4,60000000.0,Standard Flow
+Indramayu,Middlemen,6,Wholesaler,5,28000000.0,Standard Flow
+Indramayu,Middlemen,7,Wholesaler,5,86000000.0,Standard Flow
+Indramayu,Middlemen,7,Wholesaler,6,2000000.0,Standard Flow
+Indramayu,Middlemen,8,Wholesaler,6,88000000.0,Standard Flow
+Indramayu,Middlemen,9,Wholesaler,6,24000000.0,Standard Flow
+Indramayu,Middlemen,9,Wholesaler,7,64000000.0,Standard Flow
+Indramayu,Middlemen,10,Wholesaler,7,88000000.0,Standard Flow
+Indramayu,Middlemen,11,Wholesaler,7,88000000.0,Standard Flow
+Indramayu,Middlemen,12,Wholesaler,7,100000000.00000024,Standard Flow
+Indramayu,Middlemen,12,Wholesaler,8,3499999.9999997616,Standard Flow
+Indramayu,Middlemen,13,Wholesaler,8,110500000.00000024,Standard Flow
+Indramayu,Middlemen,13,Wholesaler,9,65499999.99999976,Standard Flow
+Indramayu,Middlemen,14,Wholesaler,9,190000000.0,Standard Flow
+Indramayu,Middlemen,15,Wholesaler,9,440000000.0,Standard Flow
+Indramayu,Middlemen,16,Wholesaler,9,384500000.00000024,Standard Flow
+Indramayu,Middlemen,16,Wholesaler,10,671499999.9999998,Standard Flow
+Indramayu,Indramayu Regional Buffer,BUFFER,Wholesaler,10,948500000.0000002,Shortage Fulfillment
+Indramayu,Indramayu Regional Buffer,BUFFER,Wholesaler,11,2160000000.0,Shortage Fulfillment
+Indramayu,Indramayu Regional Buffer,BUFFER,Wholesaler,12,3240000000.0,Shortage Fulfillment
+Indramayu,Indramayu Regional Buffer,BUFFER,Wholesaler,13,114000000.0,Shortage Fulfillment
+Indramayu,Indramayu Regional Buffer,BUFFER,Wholesaler,14,6480000000.0,Shortage Fulfillment
+Indramayu,Indramayu Regional Buffer,BUFFER,Wholesaler,15,8000000000.0,Shortage Fulfillment
+Indramayu,Indramayu Regional Buffer,BUFFER,Wholesaler,16,114000000.0,Shortage Fulfillment
+Indramayu,Wholesaler,1,Retail,1,2250000.0,Standard Flow
+Indramayu,Wholesaler,1,Retail,2,2475000.0,Standard Flow
+Indramayu,Wholesaler,1,Retail,3,2612500.0,Standard Flow
+Indramayu,Wholesaler,1,Retail,4,2450000.0,Standard Flow
+Indramayu,Wholesaler,1,Retail,5,1960000.0,Standard Flow
+Indramayu,Wholesaler,1,Retail,6,2695000.0,Standard Flow
+Indramayu,Wholesaler,1,Retail,7,1960000.0,Standard Flow
+Indramayu,Wholesaler,1,Retail,8,585000.0,Standard Flow
+Indramayu,Wholesaler,1,Retail,9,1880000.0,Standard Flow
+Indramayu,Wholesaler,1,Retail,10,2695000.0,Standard Flow
+Indramayu,Wholesaler,1,Retail,11,2695000.0,Standard Flow
+Indramayu,Wholesaler,1,Retail,12,2695000.0,Standard Flow
+Indramayu,Wholesaler,1,Retail,13,2695000.0,Standard Flow
+Indramayu,Wholesaler,1,Retail,14,2475000.0,Standard Flow
+Indramayu,Wholesaler,1,Retail,15,2695000.0,Standard Flow
+Indramayu,Wholesaler,1,Retail,16,1900000.0,Standard Flow
+Indramayu,Wholesaler,1,Indramayu Regional Buffer,BUFFER,113282500.0,Excess Mitigation
+Indramayu,Wholesaler,2,Indramayu Regional Buffer,BUFFER,180000000.0,Excess Mitigation
+Indramayu,Wholesaler,3,Indramayu Regional Buffer,BUFFER,760000000.0,Excess Mitigation
+Indramayu,Wholesaler,4,Indramayu Regional Buffer,BUFFER,180000000.0,Excess Mitigation
+Indramayu,Wholesaler,5,Indramayu Regional Buffer,BUFFER,180000000.0,Excess Mitigation
+Indramayu,Wholesaler,6,Indramayu Regional Buffer,BUFFER,180000000.0,Excess Mitigation
+Indramayu,Wholesaler,7,Indramayu Regional Buffer,BUFFER,396000000.0,Excess Mitigation
+Indramayu,Wholesaler,8,Indramayu Regional Buffer,BUFFER,897600000.0,Excess Mitigation
+Indramayu,Wholesaler,9,Indramayu Regional Buffer,BUFFER,1320000000.0,Excess Mitigation
+Indramayu,Wholesaler,10,Indramayu Regional Buffer,BUFFER,1980000000.0,Excess Mitigation
+Indramayu,Wholesaler,11,Indramayu Regional Buffer,BUFFER,2640000000.0,Excess Mitigation
+Indramayu,Wholesaler,12,Indramayu Regional Buffer,BUFFER,3960000000.0,Excess Mitigation
+Indramayu,Wholesaler,13,Indramayu Regional Buffer,BUFFER,5292000000.0,Excess Mitigation
+Indramayu,Wholesaler,14,Indramayu Regional Buffer,BUFFER,8200000000.000008,Excess Mitigation
+Indramayu,Wholesaler,15,Indramayu Regional Buffer,BUFFER,10500000000.0,Excess Mitigation
+Indramayu,Wholesaler,16,Indramayu Regional Buffer,BUFFER,225000000.0,Excess Mitigation
+Karawang,Farmer,1,Rice Miller,1,39600000.0,Standard Flow
+Karawang,Farmer,2,Rice Miller,1,133650000.0,Standard Flow
+Karawang,Farmer,3,Rice Miller,1,61200000.0,Standard Flow
+Karawang,Farmer,4,Rice Miller,1,30600000.0,Standard Flow
+Karawang,Farmer,5,Rice Miller,1,267300000.0,Standard Flow
+Karawang,Farmer,6,Rice Miller,1,81600000.0,Standard Flow
+Karawang,Farmer,7,Rice Miller,1,53850000.0,Standard Flow
+Karawang,Farmer,7,Rice Miller,2,190950000.0,Standard Flow
+Karawang,Farmer,8,Rice Miller,2,30600000.0,Standard Flow
+Karawang,Farmer,9,Rice Miller,2,133650000.0,Standard Flow
+Karawang,Farmer,10,Rice Miller,2,194800000.0,Standard Flow
+Karawang,Farmer,10,Rice Miller,3,72500000.0,Standard Flow
+Karawang,Farmer,11,Rice Miller,3,83500000.0,Standard Flow
+Karawang,Farmer,11,Rice Miller,4,69500000.0,Standard Flow
+Karawang,Farmer,12,Rice Miller,4,83500000.0,Standard Flow
+Karawang,Farmer,12,Rice Miller,5,104000000.0,Standard Flow
+Karawang,Farmer,12,Rice Miller,6,42900000.0,Standard Flow
+Karawang,Farmer,13,Rice Miller,6,57100000.0,Standard Flow
+Karawang,Farmer,13,Rice Miller,7,36950000.0,Standard Flow
+Karawang,Farmer,14,Rice Miller,7,48150000.0,Standard Flow
+Karawang,Farmer,15,Rice Miller,7,20900000.0,Standard Flow
+Karawang,Farmer,15,Rice Miller,8,79500000.0,Standard Flow
+Karawang,Farmer,15,Rice Miller,9,18400000.0,Standard Flow
+Karawang,Farmer,16,Rice Miller,9,56600000.0,Standard Flow
+Karawang,Farmer,16,Rice Miller,10,25000000.0,Standard Flow
+Karawang,Farmer,17,Rice Miller,10,30000000.0,Standard Flow
+Karawang,Farmer,17,Rice Miller,11,53000000.0,Standard Flow
+Karawang,Farmer,17,Rice Miller,12,50000000.0,Standard Flow
+Karawang,Farmer,17,Rice Miller,13,20000000.0,Standard Flow
+Karawang,Farmer,18,Rice Miller,13,5000000.0,Standard Flow
+Karawang,Farmer,18,Rice Miller,14,4800000.0,Standard Flow
+Karawang,Farmer,18,Karawang Regional Buffer,BUFFER,3000000.0,Excess Mitigation
+Karawang,Farmer,19,Karawang Regional Buffer,BUFFER,208000000.0,Excess Mitigation
+Karawang,Farmer,20,Karawang Regional Buffer,BUFFER,28200000.0,Excess Mitigation
+Karawang,Farmer,21,Karawang Regional Buffer,BUFFER,148500000.0,Excess Mitigation
+Karawang,Farmer,22,Karawang Regional Buffer,BUFFER,82400000.0,Excess Mitigation
+Karawang,Farmer,23,Karawang Regional Buffer,BUFFER,81600000.0,Excess Mitigation
+Karawang,Farmer,24,Karawang Regional Buffer,BUFFER,81600000.0,Excess Mitigation
+Karawang,Farmer,25,Karawang Regional Buffer,BUFFER,153000000.0,Excess Mitigation
+Karawang,Farmer,26,Karawang Regional Buffer,BUFFER,60600000.0,Excess Mitigation
+Karawang,Farmer,27,Karawang Regional Buffer,BUFFER,50500000.0,Excess Mitigation
+Karawang,Farmer,28,Karawang Regional Buffer,BUFFER,80800000.0,Excess Mitigation
+Karawang,Farmer,29,Karawang Regional Buffer,BUFFER,237600000.0,Excess Mitigation
+Karawang,Farmer,30,Karawang Regional Buffer,BUFFER,122400000.0,Excess Mitigation
+Karawang,Farmer,31,Karawang Regional Buffer,BUFFER,62400000.0,Excess Mitigation
+Karawang,Farmer,32,Karawang Regional Buffer,BUFFER,79200000.0,Excess Mitigation
+Karawang,Farmer,33,Karawang Regional Buffer,BUFFER,138600000.0,Excess Mitigation
+Karawang,Farmer,34,Karawang Regional Buffer,BUFFER,112800000.0,Excess Mitigation
+Karawang,Farmer,35,Karawang Regional Buffer,BUFFER,99000000.0,Excess Mitigation
+Karawang,Farmer,36,Karawang Regional Buffer,BUFFER,69300000.0,Excess Mitigation
+Karawang,Farmer,37,Karawang Regional Buffer,BUFFER,117002000.0,Excess Mitigation
+Karawang,Farmer,38,Karawang Regional Buffer,BUFFER,80800000.0,Excess Mitigation
+Karawang,Farmer,39,Karawang Regional Buffer,BUFFER,66150000.0,Excess Mitigation
+Karawang,Farmer,40,Karawang Regional Buffer,BUFFER,99000000.0,Excess Mitigation
+Karawang,Farmer,41,Karawang Regional Buffer,BUFFER,62400000.0,Excess Mitigation
+Karawang,Farmer,42,Karawang Regional Buffer,BUFFER,39600000.0,Excess Mitigation
+Karawang,Farmer,43,Karawang Regional Buffer,BUFFER,67200000.0,Excess Mitigation
+Karawang,Farmer,44,Karawang Regional Buffer,BUFFER,252900000.0,Excess Mitigation
+Karawang,Farmer,45,Karawang Regional Buffer,BUFFER,196000000.0,Excess Mitigation
+Karawang,Farmer,46,Karawang Regional Buffer,BUFFER,155200000.0,Excess Mitigation
+Karawang,Farmer,47,Karawang Regional Buffer,BUFFER,48000000.0,Excess Mitigation
+Karawang,Farmer,48,Karawang Regional Buffer,BUFFER,62400000.0,Excess Mitigation
+Karawang,Farmer,49,Karawang Regional Buffer,BUFFER,41600000.0,Excess Mitigation
+Karawang,Farmer,50,Karawang Regional Buffer,BUFFER,52000000.0,Excess Mitigation
+Karawang,Farmer,51,Karawang Regional Buffer,BUFFER,63000000.0,Excess Mitigation
+Karawang,Farmer,52,Karawang Regional Buffer,BUFFER,126000000.0,Excess Mitigation
+Karawang,Farmer,53,Karawang Regional Buffer,BUFFER,169400000.0,Excess Mitigation
+Karawang,Rice Miller,1,Middlemen,1,140000000.0,Standard Flow
+Karawang,Rice Miller,1,Middlemen,2,12450000.0,Standard Flow
+Karawang,Rice Miller,1,Middlemen,3,41500000.0,Standard Flow
+Karawang,Rice Miller,1,Middlemen,4,175000000.0,Standard Flow
+Karawang,Rice Miller,1,Middlemen,5,41400000.0,Standard Flow
+Karawang,Rice Miller,1,Middlemen,6,225000000.0,Standard Flow
+Karawang,Rice Miller,1,Middlemen,7,19850000.0,Standard Flow
+Karawang,Rice Miller,2,Middlemen,7,85150000.0,Standard Flow
+Karawang,Rice Miller,2,Middlemen,8,28500000.0,Standard Flow
+Karawang,Rice Miller,2,Middlemen,9,15000000.0,Standard Flow
+Karawang,Rice Miller,2,Middlemen,10,70000000.0,Standard Flow
+Karawang,Rice Miller,2,Middlemen,11,24500000.0,Standard Flow
+Karawang,Rice Miller,2,Middlemen,12,83000000.0,Standard Flow
+Karawang,Rice Miller,2,Middlemen,13,19600000.0,Standard Flow
+Karawang,Rice Miller,2,Middlemen,14,75000000.0,Standard Flow
+Karawang,Rice Miller,2,Karawang Regional Buffer,BUFFER,169250000.0,Excess Mitigation
+Karawang,Rice Miller,3,Karawang Regional Buffer,BUFFER,142500000.0,Excess Mitigation
+Karawang,Rice Miller,4,Karawang Regional Buffer,BUFFER,142500000.0,Excess Mitigation
+Karawang,Rice Miller,5,Karawang Regional Buffer,BUFFER,114000000.0,Excess Mitigation
+Karawang,Rice Miller,6,Karawang Regional Buffer,BUFFER,90000000.0,Excess Mitigation
+Karawang,Rice Miller,7,Karawang Regional Buffer,BUFFER,104500000.0,Excess Mitigation
+Karawang,Rice Miller,8,Karawang Regional Buffer,BUFFER,76000000.0,Excess Mitigation
+Karawang,Rice Miller,9,Karawang Regional Buffer,BUFFER,72572473.9716675,Excess Mitigation
+Karawang,Rice Miller,10,Karawang Regional Buffer,BUFFER,58000000.000000015,Excess Mitigation
+Karawang,Rice Miller,11,Karawang Regional Buffer,BUFFER,50000000.0,Excess Mitigation
+Karawang,Rice Miller,12,Karawang Regional Buffer,BUFFER,47500000.0,Excess Mitigation
+Karawang,Rice Miller,13,Karawang Regional Buffer,BUFFER,24190824.657222506,Excess Mitigation
+Karawang,Rice Miller,14,Karawang Regional Buffer,BUFFER,4500000.0,Excess Mitigation
+Karawang,Middlemen,1,Wholesaler,1,176000000.0,Standard Flow
+Karawang,Middlemen,2,Wholesaler,1,14000000.0,Standard Flow
+Karawang,Middlemen,2,Wholesaler,2,8500000.0,Standard Flow
+Karawang,Middlemen,3,Wholesaler,2,45000000.0,Standard Flow
+Karawang,Middlemen,4,Wholesaler,2,132500000.0,Standard Flow
+Karawang,Middlemen,4,Wholesaler,3,87500000.0,Standard Flow
+Karawang,Middlemen,5,Wholesaler,3,42750000.0,Standard Flow
+Karawang,Middlemen,6,Wholesaler,3,264000000.0,Standard Flow
+Karawang,Middlemen,7,Wholesaler,3,132000000.0,Standard Flow
+Karawang,Middlemen,8,Wholesaler,3,28500000.0,Standard Flow
+Karawang,Middlemen,9,Wholesaler,3,15000000.0,Standard Flow
+Karawang,Middlemen,10,Wholesaler,3,88000000.0,Standard Flow
+Karawang,Middlemen,11,Wholesaler,3,14700000.0,Standard Flow
+Karawang,Middlemen,12,Wholesaler,3,40050000.0,Standard Flow
+Karawang,Middlemen,12,Wholesaler,4,47950000.0,Standard Flow
+Karawang,Middlemen,13,Wholesaler,4,19600000.0,Standard Flow
+Karawang,Middlemen,14,Wholesaler,4,74950000.0,Standard Flow
+Karawang,Middlemen,14,Wholesaler,5,13050000.0,Standard Flow
+Karawang,Karawang Regional Buffer,BUFFER,Wholesaler,5,346950000.0,Shortage Fulfillment
+Karawang,Karawang Regional Buffer,BUFFER,Wholesaler,6,114000000.0,Shortage Fulfillment
+Karawang,Karawang Regional Buffer,BUFFER,Wholesaler,7,475000000.0,Shortage Fulfillment
+Karawang,Karawang Regional Buffer,BUFFER,Wholesaler,8,114000000.0,Shortage Fulfillment
+Karawang,Karawang Regional Buffer,BUFFER,Wholesaler,9,184800000.0,Shortage Fulfillment
+Karawang,Karawang Regional Buffer,BUFFER,Wholesaler,10,285000000.0,Shortage Fulfillment
+Karawang,Karawang Regional Buffer,BUFFER,Wholesaler,11,186000000.0,Shortage Fulfillment
+Karawang,Karawang Regional Buffer,BUFFER,Wholesaler,12,90000000.0,Shortage Fulfillment
+Karawang,Karawang Regional Buffer,BUFFER,Wholesaler,13,95000000.0,Shortage Fulfillment
+Karawang,Karawang Regional Buffer,BUFFER,Wholesaler,14,712500000.0,Shortage Fulfillment
+Karawang,Wholesaler,1,Retail,1,1900000.0,Standard Flow
+Karawang,Wholesaler,1,Retail,2,2695000.0,Standard Flow
+Karawang,Wholesaler,1,Retail,3,2695000.0,Standard Flow
+Karawang,Wholesaler,1,Retail,4,2450000.0,Standard Flow
+Karawang,Wholesaler,1,Retail,5,2695000.0,Standard Flow
+Karawang,Wholesaler,1,Retail,6,2475000.0,Standard Flow
+Karawang,Wholesaler,1,Retail,7,2475000.0,Standard Flow
+Karawang,Wholesaler,1,Retail,8,2695000.0,Standard Flow
+Karawang,Wholesaler,1,Retail,9,2450000.0,Standard Flow
+Karawang,Wholesaler,1,Retail,10,2695000.0,Standard Flow
+Karawang,Wholesaler,1,Retail,11,2695000.0,Standard Flow
+Karawang,Wholesaler,1,Retail,12,1800000.0,Standard Flow
+Karawang,Wholesaler,1,Retail,13,2695000.0,Standard Flow
+Karawang,Wholesaler,1,Retail,14,2695000.0,Standard Flow
+Karawang,Wholesaler,1,Retail,15,2695000.0,Standard Flow
+Karawang,Wholesaler,1,Retail,16,1960000.0,Standard Flow
+Karawang,Wholesaler,1,Karawang Regional Buffer,BUFFER,160235000.0,Excess Mitigation
+Karawang,Wholesaler,2,Karawang Regional Buffer,BUFFER,200000000.0,Excess Mitigation
+Karawang,Wholesaler,3,Karawang Regional Buffer,BUFFER,720000000.0,Excess Mitigation
+Karawang,Wholesaler,4,Karawang Regional Buffer,BUFFER,150000000.0,Excess Mitigation
+Karawang,Wholesaler,5,Karawang Regional Buffer,BUFFER,380000000.0,Excess Mitigation
+Karawang,Wholesaler,6,Karawang Regional Buffer,BUFFER,1692000000.0,Excess Mitigation
+Karawang,Wholesaler,7,Karawang Regional Buffer,BUFFER,500000000.0,Excess Mitigation
+Karawang,Wholesaler,8,Karawang Regional Buffer,BUFFER,228000000.0,Excess Mitigation
+Karawang,Wholesaler,9,Karawang Regional Buffer,BUFFER,199500000.0,Excess Mitigation
+Karawang,Wholesaler,10,Karawang Regional Buffer,BUFFER,291000000.0,Excess Mitigation
+Karawang,Wholesaler,11,Karawang Regional Buffer,BUFFER,190000000.0,Excess Mitigation
+Karawang,Wholesaler,12,Karawang Regional Buffer,BUFFER,144000000.0,Excess Mitigation
+Karawang,Wholesaler,13,Karawang Regional Buffer,BUFFER,100000000.0,Excess Mitigation
+Karawang,Wholesaler,14,Karawang Regional Buffer,BUFFER,180000000.0,Excess Mitigation
+Subang,Farmer,1,Rice Miller,1,47000000.0,Standard Flow
+Subang,Farmer,2,Rice Miller,1,133650000.0,Standard Flow
+Subang,Farmer,3,Rice Miller,1,134350000.0,Standard Flow
+Subang,Farmer,3,Rice Miller,2,58700000.0,Standard Flow
+Subang,Farmer,4,Rice Miller,2,37720000.0,Standard Flow
+Subang,Farmer,5,Rice Miller,2,13050000.0,Standard Flow
+Subang,Farmer,6,Rice Miller,2,13050000.0,Standard Flow
+Subang,Farmer,7,Rice Miller,2,69300000.0,Standard Flow
+Subang,Farmer,8,Rice Miller,2,9300000.0,Standard Flow
+Subang,Farmer,9,Rice Miller,2,94000000.0,Standard Flow
+Subang,Farmer,10,Rice Miller,2,4880000.0,Standard Flow
+Subang,Farmer,10,Rice Miller,3,61270000.0,Standard Flow
+Subang,Farmer,11,Rice Miller,3,13050000.0,Standard Flow
+Subang,Farmer,12,Rice Miller,3,66150000.0,Standard Flow
+Subang,Farmer,13,Rice Miller,3,23400000.0,Standard Flow
+Subang,Farmer,14,Rice Miller,3,13050000.0,Standard Flow
+Subang,Farmer,15,Rice Miller,3,13050000.0,Standard Flow
+Subang,Farmer,16,Rice Miller,3,17550000.0,Standard Flow
+Subang,Farmer,17,Rice Miller,3,33300000.0,Standard Flow
+Subang,Farmer,18,Rice Miller,3,17180000.0,Standard Flow
+Subang,Farmer,18,Rice Miller,4,370000.0,Standard Flow
+Subang,Farmer,19,Rice Miller,4,19800000.0,Standard Flow
+Subang,Farmer,20,Rice Miller,4,9900000.0,Standard Flow
+Subang,Farmer,21,Rice Miller,4,9900000.0,Standard Flow
+Subang,Farmer,22,Rice Miller,4,23850000.0,Standard Flow
+Subang,Farmer,23,Rice Miller,4,211180000.0,Standard Flow
+Subang,Farmer,23,Rice Miller,5,56120000.0,Standard Flow
+Subang,Farmer,24,Rice Miller,5,84150000.0,Standard Flow
+Subang,Farmer,25,Rice Miller,5,41850000.0,Standard Flow
+Subang,Farmer,26,Rice Miller,5,67880000.0,Standard Flow
+Subang,Farmer,26,Rice Miller,6,65770000.0,Standard Flow
+Subang,Farmer,27,Rice Miller,6,22950000.0,Standard Flow
+Subang,Farmer,28,Rice Miller,6,34200000.0,Standard Flow
+Subang,Farmer,29,Rice Miller,6,33300000.0,Standard Flow
+Subang,Farmer,30,Rice Miller,6,59400000.0,Standard Flow
+Subang,Farmer,31,Rice Miller,6,13050000.0,Standard Flow
+Subang,Farmer,32,Rice Miller,6,21330000.0,Standard Flow
+Subang,Farmer,32,Rice Miller,7,97470000.0,Standard Flow
+Subang,Farmer,33,Rice Miller,7,26700000.0,Standard Flow
+Subang,Farmer,34,Rice Miller,7,39825000.0,Standard Flow
+Subang,Farmer,35,Rice Miller,7,13050000.0,Standard Flow
+Subang,Farmer,36,Rice Miller,7,37955000.0,Standard Flow
+Subang,Farmer,36,Rice Miller,8,33145000.0,Standard Flow
+Subang,Farmer,37,Rice Miller,8,17050000.0,Standard Flow
+Subang,Farmer,38,Rice Miller,8,13050000.0,Standard Flow
+Subang,Farmer,39,Rice Miller,8,17050000.0,Standard Flow
+Subang,Farmer,40,Rice Miller,8,51300000.0,Standard Flow
+Subang,Farmer,41,Rice Miller,8,10400000.0,Standard Flow
+Subang,Farmer,42,Rice Miller,8,17050000.0,Standard Flow
+Subang,Farmer,43,Rice Miller,8,65955000.0,Standard Flow
+Subang,Farmer,43,Rice Miller,9,3795000.0,Standard Flow
+Subang,Farmer,44,Rice Miller,9,25650000.0,Standard Flow
+Subang,Farmer,45,Rice Miller,9,25650000.0,Standard Flow
+Subang,Farmer,46,Rice Miller,9,39825000.0,Standard Flow
+Subang,Farmer,47,Rice Miller,9,48500000.0,Standard Flow
+Subang,Farmer,48,Rice Miller,9,25650000.0,Standard Flow
+Subang,Farmer,49,Rice Miller,9,42430000.0,Standard Flow
+Subang,Farmer,49,Rice Miller,10,40770000.0,Standard Flow
+Subang,Farmer,50,Rice Miller,10,50050000.0,Standard Flow
+Subang,Farmer,51,Rice Miller,10,69750000.0,Standard Flow
+Subang,Farmer,52,Rice Miller,10,29700000.0,Standard Flow
+Subang,Farmer,53,Rice Miller,10,5400000.0,Standard Flow
+Subang,Farmer,54,Rice Miller,10,14080000.0,Standard Flow
+Subang,Farmer,55,Rice Miller,10,15250000.0,Standard Flow
+Subang,Farmer,55,Rice Miller,11,3050000.0,Standard Flow
+Subang,Farmer,56,Rice Miller,11,57500000.0,Standard Flow
+Subang,Farmer,57,Rice Miller,11,11300000.0,Standard Flow
+Subang,Farmer,58,Rice Miller,11,43500000.0,Standard Flow
+Subang,Farmer,59,Rice Miller,11,50050000.0,Standard Flow
+Subang,Farmer,60,Rice Miller,11,37100000.0,Standard Flow
+Subang,Farmer,60,Rice Miller,12,14600000.0,Standard Flow
+Subang,Farmer,61,Rice Miller,12,67900000.0,Standard Flow
+Subang,Farmer,62,Rice Miller,12,83200000.0,Standard Flow
+Subang,Farmer,63,Rice Miller,12,9900000.0,Standard Flow
+Subang,Farmer,64,Rice Miller,12,4400000.0,Standard Flow
+Subang,Farmer,64,Rice Miller,13,19750000.0,Standard Flow
+Subang,Farmer,65,Rice Miller,13,31200000.0,Standard Flow
+Subang,Farmer,66,Rice Miller,13,44550000.0,Standard Flow
+Subang,Farmer,67,Rice Miller,13,24300000.0,Standard Flow
+Subang,Farmer,68,Rice Miller,13,24150000.0,Standard Flow
+Subang,Farmer,69,Rice Miller,13,9700000.0,Standard Flow
+Subang,Farmer,70,Rice Miller,13,16524492.753623188,Standard Flow
+Subang,Farmer,71,Rice Miller,13,13050000.0,Standard Flow
+Subang,Farmer,72,Rice Miller,13,13050000.0,Standard Flow
+Subang,Farmer,73,Rice Miller,13,3725507.2463768125,Standard Flow
+Subang,Farmer,73,Rice Miller,14,11424492.753623188,Standard Flow
+Subang,Farmer,74,Rice Miller,14,32620000.0,Standard Flow
+Subang,Farmer,75,Rice Miller,14,25250000.0,Standard Flow
+Subang,Farmer,76,Rice Miller,14,20400000.0,Standard Flow
+Subang,Farmer,77,Rice Miller,14,38800000.0,Standard Flow
+Subang,Subang Regional Buffer,BUFFER,Rice Miller,14,71505507.24637681,Shortage Fulfillment
+Subang,Subang Regional Buffer,BUFFER,Rice Miller,15,171000000.0,Shortage Fulfillment
+Subang,Subang Regional Buffer,BUFFER,Rice Miller,16,157000000.00000015,Shortage Fulfillment
+Subang,Subang Regional Buffer,BUFFER,Rice Miller,17,165000000.0,Shortage Fulfillment
+Subang,Subang Regional Buffer,BUFFER,Rice Miller,18,110000000.0,Shortage Fulfillment
+Subang,Subang Regional Buffer,BUFFER,Rice Miller,19,100000000.0,Shortage Fulfillment
+Subang,Subang Regional Buffer,BUFFER,Rice Miller,20,100000000.0,Shortage Fulfillment
+Subang,Subang Regional Buffer,BUFFER,Rice Miller,21,100800000.0,Shortage Fulfillment
+Subang,Rice Miller,1,Middlemen,1,40000000.0,Standard Flow
+Subang,Rice Miller,1,Middlemen,2,35000000.0,Standard Flow
+Subang,Rice Miller,1,Middlemen,3,34000000.0,Standard Flow
+Subang,Rice Miller,1,Middlemen,4,70000000.0,Standard Flow
+Subang,Rice Miller,1,Middlemen,5,83000000.0,Standard Flow
+Subang,Rice Miller,1,Middlemen,6,83000000.0,Standard Flow
+Subang,Rice Miller,1,Middlemen,7,83000000.0,Standard Flow
+Subang,Rice Miller,1,Middlemen,8,925000.0,Standard Flow
+Subang,Rice Miller,2,Middlemen,8,49075000.0,Standard Flow
+Subang,Rice Miller,2,Middlemen,9,70000000.0,Standard Flow
+Subang,Rice Miller,2,Middlemen,10,90000000.0,Standard Flow
+Subang,Rice Miller,2,Middlemen,11,105000000.0,Standard Flow
+Subang,Rice Miller,2,Middlemen,12,57612182.69329232,Standard Flow
+Subang,Rice Miller,3,Middlemen,12,47387817.30670768,Standard Flow
+Subang,Rice Miller,3,Middlemen,13,166000000.0,Standard Flow
+Subang,Rice Miller,3,Middlemen,14,140000000.0,Standard Flow
+Subang,Rice Miller,3,Middlemen,15,15402182.69329232,Standard Flow
+Subang,Rice Miller,4,Middlemen,15,159597817.30670768,Standard Flow
+Subang,Rice Miller,4,Middlemen,16,175000000.0,Standard Flow
+Subang,Rice Miller,4,Middlemen,17,1751408.7273139954,Standard Flow
+Subang,Rice Miller,5,Middlemen,17,208248591.272686,Standard Flow
+Subang,Rice Miller,5,Middlemen,18,75251408.727314,Standard Flow
+Subang,Rice Miller,6,Middlemen,18,186198591.272686,Standard Flow
+Subang,Rice Miller,6,Middlemen,19,94414974.751095,Standard Flow
+Subang,Rice Miller,7,Middlemen,19,55585025.248905,Standard Flow
+Subang,Rice Miller,7,Middlemen,20,236914974.751095,Standard Flow
+Subang,Rice Miller,8,Middlemen,20,8085025.248905003,Standard Flow
+Subang,Rice Miller,8,Middlemen,21,250000000.0,Standard Flow
+Subang,Rice Miller,8,Subang Regional Buffer,BUFFER,41881200.50065404,Excess Mitigation
+Subang,Rice Miller,9,Subang Regional Buffer,BUFFER,285151764.729476,Excess Mitigation
+Subang,Rice Miller,10,Subang Regional Buffer,BUFFER,276501125.8320532,Excess Mitigation
+Subang,Rice Miller,11,Subang Regional Buffer,BUFFER,274323951.6129032,Excess Mitigation
+Subang,Rice Miller,12,Subang Regional Buffer,BUFFER,238037714.6270694,Excess Mitigation
+Subang,Rice Miller,13,Subang Regional Buffer,BUFFER,232231916.709336,Excess Mitigation
+Subang,Rice Miller,14,Subang Regional Buffer,BUFFER,290289895.88667,Excess Mitigation
+Subang,Rice Miller,15,Subang Regional Buffer,BUFFER,232754438.52193204,Excess Mitigation
+Subang,Rice Miller,16,Subang Regional Buffer,BUFFER,213363073.47670245,Excess Mitigation
+Subang,Rice Miller,17,Subang Regional Buffer,BUFFER,151200000.0,Excess Mitigation
+Subang,Rice Miller,18,Subang Regional Buffer,BUFFER,126000000.0,Excess Mitigation
+Subang,Rice Miller,19,Subang Regional Buffer,BUFFER,96763298.62889,Excess Mitigation
+Subang,Rice Miller,20,Subang Regional Buffer,BUFFER,96763298.62889,Excess Mitigation
+Subang,Rice Miller,21,Subang Regional Buffer,BUFFER,94000000.0,Excess Mitigation
+Subang,Middlemen,1,Wholesaler,1,33440000.0,Standard Flow
+Subang,Middlemen,2,Wholesaler,1,38400000.0,Standard Flow
+Subang,Middlemen,3,Wholesaler,1,40800000.0,Standard Flow
+Subang,Middlemen,4,Wholesaler,1,62360000.0,Standard Flow
+Subang,Middlemen,4,Wholesaler,2,6240000.0,Standard Flow
+Subang,Middlemen,5,Wholesaler,2,88000000.0,Standard Flow
+Subang,Middlemen,6,Wholesaler,2,10760000.0,Standard Flow
+Subang,Middlemen,6,Wholesaler,3,77240000.0,Standard Flow
+Subang,Middlemen,7,Wholesaler,3,27760000.0,Standard Flow
+Subang,Middlemen,7,Wholesaler,4,60240000.0,Standard Flow
+Subang,Middlemen,8,Wholesaler,4,4760000.0,Standard Flow
+Subang,Middlemen,8,Wholesaler,5,83440000.0,Standard Flow
+Subang,Middlemen,9,Wholesaler,5,93100000.0,Standard Flow
+Subang,Middlemen,10,Wholesaler,5,100300000.0,Standard Flow
+Subang,Middlemen,11,Wholesaler,5,130240000.0,Standard Flow
+Subang,Middlemen,12,Wholesaler,5,12920000.0,Standard Flow
+Subang,Middlemen,12,Wholesaler,6,127680000.0,Standard Flow
+Subang,Middlemen,13,Wholesaler,6,148500000.0,Standard Flow
+Subang,Middlemen,14,Wholesaler,6,3820000.0,Standard Flow
+Subang,Middlemen,14,Wholesaler,7,70000000.0,Standard Flow
+Subang,Middlemen,14,Wholesaler,8,114280000.0,Standard Flow
+Subang,Middlemen,15,Wholesaler,8,48220000.0,Standard Flow
+Subang,Middlemen,15,Wholesaler,9,174980000.0,Standard Flow
+Subang,Middlemen,16,Wholesaler,9,108520000.0,Standard Flow
+Subang,Middlemen,16,Wholesaler,10,114680000.0,Standard Flow
+Subang,Middlemen,17,Wholesaler,10,200320000.0,Standard Flow
+Subang,Middlemen,17,Wholesaler,11,38080000.0,Standard Flow
+Subang,Middlemen,18,Wholesaler,11,1920000.0,Standard Flow
+Subang,Middlemen,18,Wholesaler,12,21000000.0,Standard Flow
+Subang,Middlemen,18,Wholesaler,13,114000000.0,Standard Flow
+Subang,Middlemen,18,Wholesaler,14,21000000.0,Standard Flow
+Subang,Middlemen,18,Wholesaler,15,112500000.0,Standard Flow
+Subang,Middlemen,18,Wholesaler,16,6780000.0,Standard Flow
+Subang,Middlemen,19,Wholesaler,16,77220000.0,Standard Flow
+Subang,Middlemen,19,Wholesaler,17,114000000.0,Standard Flow
+Subang,Middlemen,19,Wholesaler,18,91880000.0,Standard Flow
+Subang,Middlemen,20,Wholesaler,18,22120000.0,Standard Flow
+Subang,Middlemen,20,Wholesaler,19,140000000.0,Standard Flow
+Subang,Middlemen,20,Wholesaler,20,135000000.0,Standard Flow
+Subang,Middlemen,20,Wholesaler,21,16080000.0,Standard Flow
+Subang,Middlemen,21,Wholesaler,21,920000.0,Standard Flow
+Subang,Middlemen,21,Subang Regional Buffer,BUFFER,447280000.0,Excess Mitigation
+Subang,Wholesaler,1,Retail,1,2695000.0,Standard Flow
+Subang,Wholesaler,1,Retail,2,2375000.0,Standard Flow
+Subang,Wholesaler,1,Retail,3,1960000.0,Standard Flow
+Subang,Wholesaler,1,Retail,4,2695000.0,Standard Flow
+Subang,Wholesaler,1,Retail,5,2695000.0,Standard Flow
+Subang,Wholesaler,1,Retail,6,1900000.0,Standard Flow
+Subang,Wholesaler,1,Retail,7,2695000.0,Standard Flow
+Subang,Wholesaler,1,Retail,8,2450000.0,Standard Flow
+Subang,Wholesaler,1,Retail,9,1600000.0,Standard Flow
+Subang,Wholesaler,1,Retail,10,2475000.0,Standard Flow
+Subang,Wholesaler,1,Retail,11,2695000.0,Standard Flow
+Subang,Wholesaler,1,Retail,12,2450000.0,Standard Flow
+Subang,Wholesaler,1,Retail,13,2695000.0,Standard Flow
+Subang,Wholesaler,1,Retail,14,2612500.0,Standard Flow
+Subang,Wholesaler,1,Retail,15,2695000.0,Standard Flow
+Subang,Wholesaler,1,Retail,16,2250000.0,Standard Flow
+Subang,Wholesaler,1,Retail,17,1750000.0,Standard Flow
+Subang,Wholesaler,1,Retail,18,1400000.0,Standard Flow
+Subang,Wholesaler,1,Retail,19,1750000.0,Standard Flow
+Subang,Wholesaler,1,Subang Regional Buffer,BUFFER,236162500.0,Excess Mitigation
+Subang,Wholesaler,2,Subang Regional Buffer,BUFFER,215000000.0,Excess Mitigation
+Subang,Wholesaler,3,Subang Regional Buffer,BUFFER,152000000.0,Excess Mitigation
+Subang,Wholesaler,4,Subang Regional Buffer,BUFFER,114000000.0,Excess Mitigation
+Subang,Wholesaler,5,Subang Regional Buffer,BUFFER,692550000.0,Excess Mitigation
+Subang,Wholesaler,6,Subang Regional Buffer,BUFFER,381300000.0,Excess Mitigation
+Subang,Wholesaler,7,Subang Regional Buffer,BUFFER,120000000.0,Excess Mitigation
+Subang,Wholesaler,8,Subang Regional Buffer,BUFFER,311600000.0,Excess Mitigation
+Subang,Wholesaler,9,Subang Regional Buffer,BUFFER,180000000.0,Excess Mitigation
+Subang,Wholesaler,10,Subang Regional Buffer,BUFFER,547500000.0,Excess Mitigation
+Subang,Wholesaler,11,Subang Regional Buffer,BUFFER,107350000.0,Excess Mitigation
+Subang,Wholesaler,12,Subang Regional Buffer,BUFFER,93300000.0,Excess Mitigation
+Subang,Wholesaler,13,Subang Regional Buffer,BUFFER,18000000.0,Excess Mitigation
+Subang,Wholesaler,14,Subang Regional Buffer,BUFFER,61182000.0,Excess Mitigation
+Subang,Wholesaler,15,Subang Regional Buffer,BUFFER,135000000.0,Excess Mitigation
+Subang,Wholesaler,16,Subang Regional Buffer,BUFFER,180000000.0,Excess Mitigation
+Subang,Wholesaler,17,Subang Regional Buffer,BUFFER,180000000.0,Excess Mitigation
+Subang,Wholesaler,18,Subang Regional Buffer,BUFFER,300000000.0,Excess Mitigation
+Subang,Wholesaler,19,Subang Regional Buffer,BUFFER,405000000.0,Excess Mitigation
+Subang,Wholesaler,20,Subang Regional Buffer,BUFFER,540000000.0,Excess Mitigation
+Subang,Wholesaler,21,Subang Regional Buffer,BUFFER,49185000.0,Excess Mitigation
+Tasikmalaya,Farmer,1,Rice Miller,1,54450000.0,Standard Flow
+Tasikmalaya,Farmer,2,Rice Miller,1,50400000.0,Standard Flow
+Tasikmalaya,Farmer,3,Rice Miller,1,50400000.0,Standard Flow
+Tasikmalaya,Farmer,4,Rice Miller,1,29700000.0,Standard Flow
+Tasikmalaya,Farmer,5,Rice Miller,1,59400000.0,Standard Flow
+Tasikmalaya,Farmer,6,Rice Miller,1,23400000.0,Standard Flow
+Tasikmalaya,Farmer,7,Rice Miller,1,27900000.0,Standard Flow
+Tasikmalaya,Farmer,8,Rice Miller,1,94050000.0,Standard Flow
+Tasikmalaya,Farmer,9,Rice Miller,1,3410000.0,Standard Flow
+Tasikmalaya,Farmer,10,Rice Miller,1,49500000.0,Standard Flow
+Tasikmalaya,Farmer,11,Rice Miller,1,23400000.0,Standard Flow
+Tasikmalaya,Farmer,12,Rice Miller,1,54450000.0,Standard Flow
+Tasikmalaya,Farmer,13,Rice Miller,1,33300000.0,Standard Flow
+Tasikmalaya,Farmer,14,Rice Miller,1,46240000.0,Standard Flow
+Tasikmalaya,Farmer,14,Rice Miller,2,32960000.0,Standard Flow
+Tasikmalaya,Farmer,15,Rice Miller,2,3305000.0,Standard Flow
+Tasikmalaya,Farmer,16,Rice Miller,2,10100000.0,Standard Flow
+Tasikmalaya,Farmer,17,Rice Miller,2,42300000.0,Standard Flow
+Tasikmalaya,Farmer,18,Rice Miller,2,3690000.0,Standard Flow
+Tasikmalaya,Farmer,19,Rice Miller,2,12250000.0,Standard Flow
+Tasikmalaya,Farmer,20,Rice Miller,2,16875000.0,Standard Flow
+Tasikmalaya,Farmer,21,Rice Miller,2,4709000.0,Standard Flow
+Tasikmalaya,Farmer,22,Rice Miller,2,6540000.0,Standard Flow
+Tasikmalaya,Farmer,23,Rice Miller,2,10200000.0,Standard Flow
+Tasikmalaya,Farmer,24,Rice Miller,2,5220000.0,Standard Flow
+Tasikmalaya,Farmer,25,Rice Miller,2,10500000.0,Standard Flow
+Tasikmalaya,Farmer,26,Rice Miller,2,14850000.0,Standard Flow
+Tasikmalaya,Farmer,27,Rice Miller,2,16200000.0,Standard Flow
+Tasikmalaya,Farmer,28,Rice Miller,2,13050000.0,Standard Flow
+Tasikmalaya,Farmer,29,Rice Miller,2,12650000.0,Standard Flow
+Tasikmalaya,Farmer,30,Rice Miller,2,12800000.0,Standard Flow
+Tasikmalaya,Farmer,31,Rice Miller,2,8280000.0,Standard Flow
+Tasikmalaya,Farmer,32,Rice Miller,2,3564000.0,Standard Flow
+Tasikmalaya,Farmer,33,Rice Miller,2,13500000.0,Standard Flow
+Tasikmalaya,Farmer,34,Rice Miller,2,10800000.0,Standard Flow
+Tasikmalaya,Farmer,35,Rice Miller,2,9900000.0,Standard Flow
+Tasikmalaya,Farmer,36,Rice Miller,2,9300000.0,Standard Flow
+Tasikmalaya,Farmer,37,Rice Miller,2,16200000.0,Standard Flow
+Tasikmalaya,Farmer,38,Rice Miller,2,13500000.0,Standard Flow
+Tasikmalaya,Farmer,39,Rice Miller,2,19800000.0,Standard Flow
+Tasikmalaya,Farmer,40,Rice Miller,2,7660000.0,Standard Flow
+Tasikmalaya,Farmer,41,Rice Miller,2,13050000.0,Standard Flow
+Tasikmalaya,Farmer,42,Rice Miller,2,17550000.0,Standard Flow
+Tasikmalaya,Farmer,43,Rice Miller,2,23400000.0,Standard Flow
+Tasikmalaya,Farmer,44,Rice Miller,2,5297000.0,Standard Flow
+Tasikmalaya,Farmer,44,Rice Miller,3,12253000.0,Standard Flow
+Tasikmalaya,Farmer,45,Rice Miller,3,16200000.0,Standard Flow
+Tasikmalaya,Farmer,46,Rice Miller,3,14340000.0,Standard Flow
+Tasikmalaya,Farmer,47,Rice Miller,3,4120000.0,Standard Flow
+Tasikmalaya,Farmer,48,Rice Miller,3,19800000.0,Standard Flow
+Tasikmalaya,Farmer,49,Rice Miller,3,14850000.0,Standard Flow
+Tasikmalaya,Farmer,50,Rice Miller,3,17550000.0,Standard Flow
+Tasikmalaya,Farmer,51,Rice Miller,3,9300000.0,Standard Flow
+Tasikmalaya,Farmer,52,Rice Miller,3,12650000.0,Standard Flow
+Tasikmalaya,Farmer,53,Rice Miller,3,23550000.0,Standard Flow
+Tasikmalaya,Farmer,54,Rice Miller,3,27900000.0,Standard Flow
+Tasikmalaya,Farmer,55,Rice Miller,3,36450000.0,Standard Flow
+Tasikmalaya,Farmer,56,Rice Miller,3,84150000.0,Standard Flow
+Tasikmalaya,Farmer,57,Rice Miller,3,7370000.0,Standard Flow
+Tasikmalaya,Farmer,58,Rice Miller,3,7254000.0,Standard Flow
+Tasikmalaya,Farmer,59,Rice Miller,3,7196000.0,Standard Flow
+Tasikmalaya,Farmer,60,Rice Miller,3,49500000.0,Standard Flow
+Tasikmalaya,Farmer,61,Rice Miller,3,5716000.0,Standard Flow
+Tasikmalaya,Farmer,62,Rice Miller,3,11200000.0,Standard Flow
+Tasikmalaya,Farmer,63,Rice Miller,3,14740000.0,Standard Flow
+Tasikmalaya,Farmer,64,Rice Miller,3,3911000.0,Standard Flow
+Tasikmalaya,Farmer,64,Rice Miller,4,9139000.0,Standard Flow
+Tasikmalaya,Farmer,65,Rice Miller,4,3330000.0,Standard Flow
+Tasikmalaya,Farmer,66,Rice Miller,4,13950000.0,Standard Flow
+Tasikmalaya,Farmer,67,Rice Miller,4,17050000.0,Standard Flow
+Tasikmalaya,Farmer,68,Rice Miller,4,9900000.0,Standard Flow
+Tasikmalaya,Farmer,69,Rice Miller,4,9300000.0,Standard Flow
+Tasikmalaya,Farmer,70,Rice Miller,4,13050000.0,Standard Flow
+Tasikmalaya,Farmer,71,Rice Miller,4,14850000.0,Standard Flow
+Tasikmalaya,Farmer,72,Rice Miller,4,16200000.0,Standard Flow
+Tasikmalaya,Farmer,73,Rice Miller,4,13050000.0,Standard Flow
+Tasikmalaya,Farmer,74,Rice Miller,4,6950000.0,Standard Flow
+Tasikmalaya,Farmer,75,Rice Miller,4,12650000.0,Standard Flow
+Tasikmalaya,Farmer,76,Rice Miller,4,14850000.0,Standard Flow
+Tasikmalaya,Farmer,77,Rice Miller,4,16200000.0,Standard Flow
+Tasikmalaya,Farmer,78,Rice Miller,4,27900000.0,Standard Flow
+Tasikmalaya,Farmer,79,Rice Miller,4,1620000.0,Standard Flow
+Tasikmalaya,Farmer,80,Rice Miller,4,36450000.0,Standard Flow
+Tasikmalaya,Farmer,81,Rice Miller,4,54450000.0,Standard Flow
+Tasikmalaya,Farmer,82,Rice Miller,4,1620000.0,Standard Flow
+Tasikmalaya,Farmer,83,Rice Miller,4,1620000.0,Standard Flow
+Tasikmalaya,Farmer,84,Rice Miller,4,5871000.0,Standard Flow
+Tasikmalaya,Farmer,84,Rice Miller,5,22029000.0,Standard Flow
+Tasikmalaya,Farmer,85,Rice Miller,5,36450000.0,Standard Flow
+Tasikmalaya,Farmer,86,Rice Miller,5,48150000.0,Standard Flow
+Tasikmalaya,Farmer,87,Rice Miller,5,24900000.0,Standard Flow
+Tasikmalaya,Farmer,88,Rice Miller,5,1620000.0,Standard Flow
+Tasikmalaya,Farmer,89,Rice Miller,5,27900000.0,Standard Flow
+Tasikmalaya,Farmer,90,Rice Miller,5,1620000.0,Standard Flow
+Tasikmalaya,Farmer,91,Rice Miller,5,36450000.0,Standard Flow
+Tasikmalaya,Farmer,92,Rice Miller,5,1620000.0,Standard Flow
+Tasikmalaya,Farmer,93,Rice Miller,5,1620000.0,Standard Flow
+Tasikmalaya,Farmer,94,Rice Miller,5,36450000.0,Standard Flow
+Tasikmalaya,Farmer,95,Rice Miller,5,1620000.0,Standard Flow
+Tasikmalaya,Farmer,96,Rice Miller,5,1620000.0,Standard Flow
+Tasikmalaya,Farmer,97,Rice Miller,5,32400000.0,Standard Flow
+Tasikmalaya,Farmer,98,Rice Miller,5,1620000.0,Standard Flow
+Tasikmalaya,Farmer,99,Rice Miller,5,1620000.0,Standard Flow
+Tasikmalaya,Farmer,100,Rice Miller,5,22311000.0,Standard Flow
+Tasikmalaya,Farmer,100,Rice Miller,6,32139000.0,Standard Flow
+Tasikmalaya,Farmer,101,Rice Miller,6,1620000.0,Standard Flow
+Tasikmalaya,Farmer,102,Rice Miller,6,1620000.0,Standard Flow
+Tasikmalaya,Farmer,103,Rice Miller,6,33300000.0,Standard Flow
+Tasikmalaya,Farmer,104,Rice Miller,6,1620000.0,Standard Flow
+Tasikmalaya,Farmer,105,Rice Miller,6,27900000.0,Standard Flow
+Tasikmalaya,Farmer,106,Rice Miller,6,48150000.0,Standard Flow
+Tasikmalaya,Farmer,107,Rice Miller,6,1620000.0,Standard Flow
+Tasikmalaya,Farmer,108,Rice Miller,6,1620000.0,Standard Flow
+Tasikmalaya,Farmer,109,Rice Miller,6,36450000.0,Standard Flow
+Tasikmalaya,Farmer,110,Rice Miller,6,36450000.0,Standard Flow
+Tasikmalaya,Tasikmalaya Regional Buffer,BUFFER,Rice Miller,6,77511000.0,Shortage Fulfillment
+Tasikmalaya,Tasikmalaya Regional Buffer,BUFFER,Rice Miller,7,200000000.0,Shortage Fulfillment
+Tasikmalaya,Tasikmalaya Regional Buffer,BUFFER,Rice Miller,8,125000000.0,Shortage Fulfillment
+Tasikmalaya,Tasikmalaya Regional Buffer,BUFFER,Rice Miller,9,120000000.0,Shortage Fulfillment
+Tasikmalaya,Tasikmalaya Regional Buffer,BUFFER,Rice Miller,10,60000000.0,Shortage Fulfillment
+Tasikmalaya,Tasikmalaya Regional Buffer,BUFFER,Rice Miller,11,56000000.0,Shortage Fulfillment
+Tasikmalaya,Tasikmalaya Regional Buffer,BUFFER,Rice Miller,12,55000000.0,Shortage Fulfillment
+Tasikmalaya,Tasikmalaya Regional Buffer,BUFFER,Rice Miller,13,42500000.0,Shortage Fulfillment
+Tasikmalaya,Tasikmalaya Regional Buffer,BUFFER,Rice Miller,14,37500000.0,Shortage Fulfillment
+Tasikmalaya,Tasikmalaya Regional Buffer,BUFFER,Rice Miller,15,34500000.0,Shortage Fulfillment
+Tasikmalaya,Tasikmalaya Regional Buffer,BUFFER,Rice Miller,16,25000000.0,Shortage Fulfillment
+Tasikmalaya,Tasikmalaya Regional Buffer,BUFFER,Rice Miller,17,28500000.0,Shortage Fulfillment
+Tasikmalaya,Tasikmalaya Regional Buffer,BUFFER,Rice Miller,18,23280000.0,Shortage Fulfillment
+Tasikmalaya,Tasikmalaya Regional Buffer,BUFFER,Rice Miller,19,21600000.0,Shortage Fulfillment
+Tasikmalaya,Tasikmalaya Regional Buffer,BUFFER,Rice Miller,20,22400000.0,Shortage Fulfillment
+Tasikmalaya,Tasikmalaya Regional Buffer,BUFFER,Rice Miller,21,15680000.0,Shortage Fulfillment
+Tasikmalaya,Tasikmalaya Regional Buffer,BUFFER,Rice Miller,22,14000000.0,Shortage Fulfillment
+Tasikmalaya,Tasikmalaya Regional Buffer,BUFFER,Rice Miller,23,12000000.0,Shortage Fulfillment
+Tasikmalaya,Tasikmalaya Regional Buffer,BUFFER,Rice Miller,24,12100000.0,Shortage Fulfillment
+Tasikmalaya,Tasikmalaya Regional Buffer,BUFFER,Rice Miller,25,9000000.0,Shortage Fulfillment
+Tasikmalaya,Tasikmalaya Regional Buffer,BUFFER,Rice Miller,26,8099999.999999997,Shortage Fulfillment
+Tasikmalaya,Tasikmalaya Regional Buffer,BUFFER,Rice Miller,27,8550000.0,Shortage Fulfillment
+Tasikmalaya,Tasikmalaya Regional Buffer,BUFFER,Rice Miller,28,7500000.0,Shortage Fulfillment
+Tasikmalaya,Tasikmalaya Regional Buffer,BUFFER,Rice Miller,29,3000000.0,Shortage Fulfillment
+Tasikmalaya,Rice Miller,1,Middlemen,1,6225000.0,Standard Flow
+Tasikmalaya,Rice Miller,1,Middlemen,2,8900000.0,Standard Flow
+Tasikmalaya,Rice Miller,1,Middlemen,3,9200000.0,Standard Flow
+Tasikmalaya,Rice Miller,1,Middlemen,4,11760000.0,Standard Flow
+Tasikmalaya,Rice Miller,1,Middlemen,5,14250000.0,Standard Flow
+Tasikmalaya,Rice Miller,1,Middlemen,6,14700000.0,Standard Flow
+Tasikmalaya,Rice Miller,1,Middlemen,7,19600000.0,Standard Flow
+Tasikmalaya,Rice Miller,1,Middlemen,8,19200000.0,Standard Flow
+Tasikmalaya,Rice Miller,1,Middlemen,9,17400000.0,Standard Flow
+Tasikmalaya,Rice Miller,1,Middlemen,10,18260000.0,Standard Flow
+Tasikmalaya,Rice Miller,1,Middlemen,11,23520000.0,Standard Flow
+Tasikmalaya,Rice Miller,1,Middlemen,12,25650000.0,Standard Flow
+Tasikmalaya,Rice Miller,1,Middlemen,13,26975000.0,Standard Flow
+Tasikmalaya,Rice Miller,1,Middlemen,14,34560000.0,Standard Flow
+Tasikmalaya,Rice Miller,1,Middlemen,15,38400000.0,Standard Flow
+Tasikmalaya,Rice Miller,1,Middlemen,16,39200000.0,Standard Flow
+Tasikmalaya,Rice Miller,1,Middlemen,17,37240000.0,Standard Flow
+Tasikmalaya,Rice Miller,1,Middlemen,18,41160000.0,Standard Flow
+Tasikmalaya,Rice Miller,1,Middlemen,19,37350000.0,Standard Flow
+Tasikmalaya,Rice Miller,1,Middlemen,20,57000000.0,Standard Flow
+Tasikmalaya,Rice Miller,1,Middlemen,21,83000000.0,Standard Flow
+Tasikmalaya,Rice Miller,1,Middlemen,22,16450000.0,Standard Flow
+Tasikmalaya,Rice Miller,2,Middlemen,22,66550000.0,Standard Flow
+Tasikmalaya,Rice Miller,2,Middlemen,23,83000000.0,Standard Flow
+Tasikmalaya,Rice Miller,2,Middlemen,24,83000000.0,Standard Flow
+Tasikmalaya,Rice Miller,2,Middlemen,25,83000000.0,Standard Flow
+Tasikmalaya,Rice Miller,2,Middlemen,26,83000000.0,Standard Flow
+Tasikmalaya,Rice Miller,2,Middlemen,27,1450000.0,Standard Flow
+Tasikmalaya,Rice Miller,3,Middlemen,27,81550000.0,Standard Flow
+Tasikmalaya,Rice Miller,3,Middlemen,28,83000000.0,Standard Flow
+Tasikmalaya,Rice Miller,3,Middlemen,29,332001481.4814816,Standard Flow
+Tasikmalaya,Rice Miller,3,Tasikmalaya Regional Buffer,BUFFER,23448518.51851839,Excess Mitigation
+Tasikmalaya,Rice Miller,4,Tasikmalaya Regional Buffer,BUFFER,300000000.0,Excess Mitigation
+Tasikmalaya,Rice Miller,5,Tasikmalaya Regional Buffer,BUFFER,350000000.0,Excess Mitigation
+Tasikmalaya,Rice Miller,6,Tasikmalaya Regional Buffer,BUFFER,300000000.0,Excess Mitigation
+Tasikmalaya,Rice Miller,7,Tasikmalaya Regional Buffer,BUFFER,222555586.84644705,Excess Mitigation
+Tasikmalaya,Rice Miller,8,Tasikmalaya Regional Buffer,BUFFER,120000000.0,Excess Mitigation
+Tasikmalaya,Rice Miller,9,Tasikmalaya Regional Buffer,BUFFER,140000000.0,Excess Mitigation
+Tasikmalaya,Rice Miller,10,Tasikmalaya Regional Buffer,BUFFER,72000000.0,Excess Mitigation
+Tasikmalaya,Rice Miller,11,Tasikmalaya Regional Buffer,BUFFER,60000000.0,Excess Mitigation
+Tasikmalaya,Rice Miller,12,Tasikmalaya Regional Buffer,BUFFER,59400000.0,Excess Mitigation
+Tasikmalaya,Rice Miller,13,Tasikmalaya Regional Buffer,BUFFER,63800000.0,Excess Mitigation
+Tasikmalaya,Rice Miller,14,Tasikmalaya Regional Buffer,BUFFER,43543484.3830005,Excess Mitigation
+Tasikmalaya,Rice Miller,15,Tasikmalaya Regional Buffer,BUFFER,41040000.0,Excess Mitigation
+Tasikmalaya,Rice Miller,16,Tasikmalaya Regional Buffer,BUFFER,29028989.588667,Excess Mitigation
+Tasikmalaya,Rice Miller,17,Tasikmalaya Regional Buffer,BUFFER,29700000.0,Excess Mitigation
+Tasikmalaya,Rice Miller,18,Tasikmalaya Regional Buffer,BUFFER,27540000.0,Excess Mitigation
+Tasikmalaya,Rice Miller,19,Tasikmalaya Regional Buffer,BUFFER,24500000.0,Excess Mitigation
+Tasikmalaya,Rice Miller,20,Tasikmalaya Regional Buffer,BUFFER,24190824.657222506,Excess Mitigation
+Tasikmalaya,Rice Miller,21,Tasikmalaya Regional Buffer,BUFFER,17440000.0,Excess Mitigation
+Tasikmalaya,Rice Miller,22,Tasikmalaya Regional Buffer,BUFFER,15000000.0,Excess Mitigation
+Tasikmalaya,Rice Miller,23,Tasikmalaya Regional Buffer,BUFFER,21000000.0,Excess Mitigation
+Tasikmalaya,Rice Miller,24,Tasikmalaya Regional Buffer,BUFFER,15750000.0,Excess Mitigation
+Tasikmalaya,Rice Miller,25,Tasikmalaya Regional Buffer,BUFFER,9000000.0,Excess Mitigation
+Tasikmalaya,Rice Miller,26,Tasikmalaya Regional Buffer,BUFFER,12579228.821755702,Excess Mitigation
+Tasikmalaya,Rice Miller,27,Tasikmalaya Regional Buffer,BUFFER,6440000.0,Excess Mitigation
+Tasikmalaya,Rice Miller,28,Tasikmalaya Regional Buffer,BUFFER,8640000.0,Excess Mitigation
+Tasikmalaya,Rice Miller,29,Tasikmalaya Regional Buffer,BUFFER,2902898.9588667,Excess Mitigation
+Tasikmalaya,Middlemen,1,Wholesaler,1,5896000.0,Standard Flow
+Tasikmalaya,Middlemen,2,Wholesaler,1,9000000.0,Standard Flow
+Tasikmalaya,Middlemen,3,Wholesaler,1,9500000.0,Standard Flow
+Tasikmalaya,Middlemen,4,Wholesaler,1,3604000.0,Standard Flow
+Tasikmalaya,Middlemen,4,Wholesaler,2,6956000.0,Standard Flow
+Tasikmalaya,Middlemen,5,Wholesaler,2,11440000.0,Standard Flow
+Tasikmalaya,Middlemen,6,Wholesaler,2,13024000.0,Standard Flow
+Tasikmalaya,Middlemen,7,Wholesaler,2,13200000.0,Standard Flow
+Tasikmalaya,Middlemen,8,Wholesaler,2,13200000.0,Standard Flow
+Tasikmalaya,Middlemen,9,Wholesaler,2,17100000.0,Standard Flow
+Tasikmalaya,Middlemen,10,Wholesaler,2,17600000.0,Standard Flow
+Tasikmalaya,Middlemen,11,Wholesaler,2,20680000.0,Standard Flow
+Tasikmalaya,Middlemen,12,Wholesaler,2,22880000.0,Standard Flow
+Tasikmalaya,Middlemen,13,Wholesaler,2,10920000.0,Standard Flow
+Tasikmalaya,Middlemen,13,Wholesaler,3,14160000.0,Standard Flow
+Tasikmalaya,Middlemen,14,Wholesaler,3,31680000.0,Standard Flow
+Tasikmalaya,Middlemen,15,Wholesaler,3,33440000.0,Standard Flow
+Tasikmalaya,Middlemen,16,Wholesaler,3,33440000.0,Standard Flow
+Tasikmalaya,Middlemen,17,Wholesaler,3,33440000.0,Standard Flow
+Tasikmalaya,Middlemen,18,Wholesaler,3,36080000.0,Standard Flow
+Tasikmalaya,Middlemen,19,Wholesaler,3,9760000.0,Standard Flow
+Tasikmalaya,Middlemen,19,Wholesaler,4,28080000.0,Standard Flow
+Tasikmalaya,Middlemen,20,Wholesaler,4,18960000.0,Standard Flow
+Tasikmalaya,Middlemen,20,Wholesaler,5,27440000.0,Standard Flow
+Tasikmalaya,Middlemen,20,Wholesaler,6,6400000.0,Standard Flow
+Tasikmalaya,Middlemen,21,Wholesaler,6,88000000.0,Standard Flow
+Tasikmalaya,Middlemen,22,Wholesaler,6,88000000.0,Standard Flow
+Tasikmalaya,Middlemen,23,Wholesaler,6,88000000.0,Standard Flow
+Tasikmalaya,Middlemen,24,Wholesaler,6,88000000.0,Standard Flow
+Tasikmalaya,Middlemen,25,Wholesaler,6,88000000.0,Standard Flow
+Tasikmalaya,Middlemen,26,Wholesaler,6,82800000.0,Standard Flow
+Tasikmalaya,Middlemen,26,Wholesaler,7,5200000.0,Standard Flow
+Tasikmalaya,Middlemen,27,Wholesaler,7,26160000.0,Standard Flow
+Tasikmalaya,Middlemen,27,Wholesaler,8,61840000.0,Standard Flow
+Tasikmalaya,Middlemen,28,Wholesaler,8,98000000.0,Standard Flow
+Tasikmalaya,Middlemen,29,Wholesaler,8,162160000.0,Standard Flow
+Tasikmalaya,Middlemen,29,Wholesaler,9,136500000.0,Standard Flow
+Tasikmalaya,Middlemen,29,Wholesaler,10,51580000.0,Standard Flow
+Tasikmalaya,Tasikmalaya Regional Buffer,BUFFER,Wholesaler,10,2764420000.0,Shortage Fulfillment
+Tasikmalaya,Tasikmalaya Regional Buffer,BUFFER,Wholesaler,11,27440000.0,Shortage Fulfillment
+Tasikmalaya,Tasikmalaya Regional Buffer,BUFFER,Wholesaler,12,114000000.0,Shortage Fulfillment
+Tasikmalaya,Tasikmalaya Regional Buffer,BUFFER,Wholesaler,13,114000000.0,Shortage Fulfillment
+Tasikmalaya,Tasikmalaya Regional Buffer,BUFFER,Wholesaler,14,114000000.0,Shortage Fulfillment
+Tasikmalaya,Tasikmalaya Regional Buffer,BUFFER,Wholesaler,15,114000000.0,Shortage Fulfillment
+Tasikmalaya,Tasikmalaya Regional Buffer,BUFFER,Wholesaler,16,114000000.0,Shortage Fulfillment
+Tasikmalaya,Tasikmalaya Regional Buffer,BUFFER,Wholesaler,17,114000000.0,Shortage Fulfillment
+Tasikmalaya,Tasikmalaya Regional Buffer,BUFFER,Wholesaler,18,114000000.0,Shortage Fulfillment
+Tasikmalaya,Tasikmalaya Regional Buffer,BUFFER,Wholesaler,19,114000000.0,Shortage Fulfillment
+Tasikmalaya,Tasikmalaya Regional Buffer,BUFFER,Wholesaler,20,114000000.0,Shortage Fulfillment
+Tasikmalaya,Tasikmalaya Regional Buffer,BUFFER,Wholesaler,21,114000000.0,Shortage Fulfillment
+Tasikmalaya,Tasikmalaya Regional Buffer,BUFFER,Wholesaler,22,651000000.0,Shortage Fulfillment
+Tasikmalaya,Tasikmalaya Regional Buffer,BUFFER,Wholesaler,23,184000000.0,Shortage Fulfillment
+Tasikmalaya,Tasikmalaya Regional Buffer,BUFFER,Wholesaler,24,214999999.99999985,Shortage Fulfillment
+Tasikmalaya,Tasikmalaya Regional Buffer,BUFFER,Wholesaler,25,270000000.0,Shortage Fulfillment
+Tasikmalaya,Tasikmalaya Regional Buffer,BUFFER,Wholesaler,26,380000000.0,Shortage Fulfillment
+Tasikmalaya,Tasikmalaya Regional Buffer,BUFFER,Wholesaler,27,37200000.0,Shortage Fulfillment
+Tasikmalaya,Tasikmalaya Regional Buffer,BUFFER,Wholesaler,28,96000000.0,Shortage Fulfillment
+Tasikmalaya,Wholesaler,1,Retail,1,2475000.0,Standard Flow
+Tasikmalaya,Wholesaler,1,Retail,2,2695000.0,Standard Flow
+Tasikmalaya,Wholesaler,1,Retail,3,2612500.0,Standard Flow
+Tasikmalaya,Wholesaler,1,Retail,4,1960000.0,Standard Flow
+Tasikmalaya,Wholesaler,1,Retail,5,2695000.0,Standard Flow
+Tasikmalaya,Wholesaler,1,Retail,6,3240000.0,Standard Flow
+Tasikmalaya,Wholesaler,1,Retail,7,2695000.0,Standard Flow
+Tasikmalaya,Wholesaler,1,Retail,8,2695000.0,Standard Flow
+Tasikmalaya,Wholesaler,1,Retail,9,2450000.0,Standard Flow
+Tasikmalaya,Wholesaler,1,Retail,10,2612500.0,Standard Flow
+Tasikmalaya,Wholesaler,1,Retail,11,2475000.0,Standard Flow
+Tasikmalaya,Wholesaler,1,Retail,12,1635000.0,Standard Flow
+Tasikmalaya,Wholesaler,2,Retail,12,1060000.0,Standard Flow
+Tasikmalaya,Wholesaler,2,Retail,13,2450000.0,Standard Flow
+Tasikmalaya,Wholesaler,2,Retail,14,2375000.0,Standard Flow
+Tasikmalaya,Wholesaler,2,Retail,15,2695000.0,Standard Flow
+Tasikmalaya,Wholesaler,2,Retail,16,2695000.0,Standard Flow
+Tasikmalaya,Wholesaler,2,Retail,17,2612500.0,Standard Flow
+Tasikmalaya,Wholesaler,2,Retail,18,2695000.0,Standard Flow
+Tasikmalaya,Wholesaler,2,Retail,19,2475000.0,Standard Flow
+Tasikmalaya,Wholesaler,2,Retail,20,2695000.0,Standard Flow
+Tasikmalaya,Wholesaler,2,Retail,21,1900000.0,Standard Flow
+Tasikmalaya,Wholesaler,2,Retail,22,2695000.0,Standard Flow
+Tasikmalaya,Wholesaler,2,Retail,23,2695000.0,Standard Flow
+Tasikmalaya,Wholesaler,2,Retail,24,2695000.0,Standard Flow
+Tasikmalaya,Wholesaler,2,Retail,25,2450000.0,Standard Flow
+Tasikmalaya,Wholesaler,2,Retail,26,2850000.0,Standard Flow
+Tasikmalaya,Wholesaler,2,Retail,27,2250000.0,Standard Flow
+Tasikmalaya,Wholesaler,2,Retail,28,2695000.0,Standard Flow
+Tasikmalaya,Wholesaler,2,Tasikmalaya Regional Buffer,BUFFER,127517500.0,Excess Mitigation
+Tasikmalaya,Wholesaler,3,Tasikmalaya Regional Buffer,BUFFER,192000000.0,Excess Mitigation
+Tasikmalaya,Wholesaler,4,Tasikmalaya Regional Buffer,BUFFER,53280000.0,Excess Mitigation
+Tasikmalaya,Wholesaler,5,Tasikmalaya Regional Buffer,BUFFER,31360000.0,Excess Mitigation
+Tasikmalaya,Wholesaler,6,Tasikmalaya Regional Buffer,BUFFER,535500000.0,Excess Mitigation
+Tasikmalaya,Wholesaler,7,Tasikmalaya Regional Buffer,BUFFER,34720000.0,Excess Mitigation
+Tasikmalaya,Wholesaler,8,Tasikmalaya Regional Buffer,BUFFER,462000000.0,Excess Mitigation
+Tasikmalaya,Wholesaler,9,Tasikmalaya Regional Buffer,BUFFER,134400000.0,Excess Mitigation
+Tasikmalaya,Wholesaler,10,Tasikmalaya Regional Buffer,BUFFER,5040000000.0,Excess Mitigation
+Tasikmalaya,Wholesaler,11,Tasikmalaya Regional Buffer,BUFFER,31970000.0,Excess Mitigation
+Tasikmalaya,Wholesaler,12,Tasikmalaya Regional Buffer,BUFFER,1504000000.0,Excess Mitigation
+Tasikmalaya,Wholesaler,13,Tasikmalaya Regional Buffer,BUFFER,2016000000.0,Excess Mitigation
+Tasikmalaya,Wholesaler,14,Tasikmalaya Regional Buffer,BUFFER,600000000.0,Excess Mitigation
+Tasikmalaya,Wholesaler,15,Tasikmalaya Regional Buffer,BUFFER,135800000.0,Excess Mitigation
+Tasikmalaya,Wholesaler,16,Tasikmalaya Regional Buffer,BUFFER,440000000.0,Excess Mitigation
+Tasikmalaya,Wholesaler,17,Tasikmalaya Regional Buffer,BUFFER,480000000.0,Excess Mitigation
+Tasikmalaya,Wholesaler,18,Tasikmalaya Regional Buffer,BUFFER,500000000.0,Excess Mitigation
+Tasikmalaya,Wholesaler,19,Tasikmalaya Regional Buffer,BUFFER,840000000.0,Excess Mitigation
+Tasikmalaya,Wholesaler,20,Tasikmalaya Regional Buffer,BUFFER,968000000.0,Excess Mitigation
+Tasikmalaya,Wholesaler,21,Tasikmalaya Regional Buffer,BUFFER,1200000000.0,Excess Mitigation
+Tasikmalaya,Wholesaler,22,Tasikmalaya Regional Buffer,BUFFER,695999999.9999998,Excess Mitigation
+Tasikmalaya,Wholesaler,23,Tasikmalaya Regional Buffer,BUFFER,144000000.0,Excess Mitigation
+Tasikmalaya,Wholesaler,24,Tasikmalaya Regional Buffer,BUFFER,225000000.0,Excess Mitigation
+Tasikmalaya,Wholesaler,25,Tasikmalaya Regional Buffer,BUFFER,240000000.0,Excess Mitigation
+Tasikmalaya,Wholesaler,26,Tasikmalaya Regional Buffer,BUFFER,292500000.0,Excess Mitigation
+Tasikmalaya,Wholesaler,27,Tasikmalaya Regional Buffer,BUFFER,19800000.0,Excess Mitigation
+Tasikmalaya,Wholesaler,28,Tasikmalaya Regional Buffer,BUFFER,99000000.0,Excess Mitigation
